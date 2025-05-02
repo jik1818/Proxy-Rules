@@ -1,0 +1,5 @@
+#App 诊断 遥测 代理
+DOMAIN-SUFFIX,metrics.icloud.com,PROXY
+DOMAIN-SUFFIX,iadsdk.apple.com,PROXY
+DOMAIN-SUFFIX,weather-analytics-events.apple.com,PROXY
+DOMAIN-SUFFIX,notes-analytics-events.apple.com,PROXY
