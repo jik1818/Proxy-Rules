@@ -1,5 +1,6 @@
 #App 诊断 遥测 代理
 HOST-SUFFIX,metrics.icloud.com,Apple
 HOST-SUFFIX,iadsdk.apple.com,Apple
+HOST-SUFFIX,cf.iadsdk.apple.com,Apple
 HOST-SUFFIX,weather-analytics-events.apple.com,Apple
 HOST-SUFFIX,notes-analytics-events.apple.com,Apple
