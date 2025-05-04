@@ -5,5 +5,5 @@ HOST-SUFFIX,cf.iadsdk.apple.com,Apple
 HOST-SUFFIX,weather-analytics-events.apple.com,Apple
 HOST-SUFFIX,notes-analytics-events.apple.com,Apple
 
-#Microsoft 微软 遥测 代理
+#Microsoft 诊断 遥测 代理
 HOST-SUFFIX,mobile.events.data.microsoft.com,Microsoft
