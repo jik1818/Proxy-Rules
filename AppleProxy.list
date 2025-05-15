@@ -1,12 +1,12 @@
 #Apple 诊断 遥测 代理
-HOST-SUFFIX,metrics.icloud.com,Apple
-HOST-SUFFIX,iadsdk.apple.com,Apple
-HOST-SUFFIX,tr.iadsdk.apple.com,Apple
-HOST-SUFFIX,cf.iadsdk.apple.com,Apple
-HOST-SUFFIX,weather-analytics-events.apple.com,Apple
-HOST-SUFFIX,notes-analytics-events.apple.com,Apple
-HOST-SUFFIX,doh.dns.apple.com,Apple
-HOST-SUFFIX,partiality.itunes.apple.com,Apple
+HOST-SUFFIX,metrics.icloud.com
+HOST-SUFFIX,iadsdk.apple.com
+HOST-SUFFIX,tr.iadsdk.apple.com
+HOST-SUFFIX,cf.iadsdk.apple.com
+HOST-SUFFIX,weather-analytics-events.apple.com
+HOST-SUFFIX,notes-analytics-events.apple.com
+HOST-SUFFIX,doh.dns.apple.com
+HOST-SUFFIX,partiality.itunes.apple.com
 
 #Microsoft 诊断 遥测 代理
-HOST-SUFFIX,mobile.events.data.microsoft.com,Microsoft
+HOST-SUFFIX,mobile.events.data.microsoft.com
