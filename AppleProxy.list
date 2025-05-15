@@ -4,14 +4,7 @@ HOST-SUFFIX,captive.apple.com,DIRECT
 HOST-SUFFIX,init.push.apple.com,PROXY
 HOST-SUFFIX,courier.push.apple.com,PROXY
 HOST-SUFFIX,push.apple.com,DIRECT
-HOST-SUFFIX,metrics.icloud.com,PROXY
-HOST-SUFFIX,iadsdk.apple.com,PROXY
-HOST-SUFFIX,tr.iadsdk.apple.com,PROXY
-HOST-SUFFIX,cf.iadsdk.apple.com,PROXY
-HOST-SUFFIX,weather-analytics-events.apple.com,PROXY
-HOST-SUFFIX,notes-analytics-events.apple.com,PROXY
-HOST-SUFFIX,doh.dns.apple.com,PROXY
-HOST-SUFFIX,partiality.itunes.apple.com,PROXY
+
 HOST-SUFFIX,apple.com,PROXY
 HOST-SUFFIX,icloud.com,PROXY
 
