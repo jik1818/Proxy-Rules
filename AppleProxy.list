@@ -1,4 +1,5 @@
-#Apple 诊断 遥测 代理
+#Apple 诊断 遥测 直连 代理 规则
+HOST-SUFFIX,doh.dns.apple.com,DIRECT
 HOST-SUFFIX,metrics.icloud.com,PROXY
 HOST-SUFFIX,iadsdk.apple.com,PROXY
 HOST-SUFFIX,tr.iadsdk.apple.com,PROXY
