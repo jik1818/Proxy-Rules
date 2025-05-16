@@ -1,5 +1,6 @@
 #Apple 诊断 遥测 直连 代理 规则
 HOST,weatherkit.apple.com,DIRECT
+HOST,bag.itunes.apple.com,DIRECT
 HOST,time.apple.com,DIRECT
 HOST,doh.dns.apple.com,DIRECT
 HOST,captive.apple.com,DIRECT
