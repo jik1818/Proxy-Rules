@@ -1,9 +1,4 @@
 #Apple 诊断 遥测 直连 代理 规则
-HOST,is1-ssl.mzstatic.com,DIRECT
-HOST,amp-api-edge.apps.apple.com,DIRECT
-HOST,weatherkit.apple.com,DIRECT
-HOST,bag.itunes.apple.com,DIRECT
-HOST,time.apple.com,DIRECT
 HOST,doh.dns.apple.com,DIRECT
 HOST,captive.apple.com,DIRECT
 HOST,init.push.apple.com,PROXY
@@ -11,6 +6,7 @@ HOST,courier.push.apple.com,PROXY
 HOST,push.apple.com,DIRECT
 
 HOST,metrics.icloud.com,PROXY
+HOST,partiality.itunes.apple.com,PROXY
 HOST,iadsdk.apple.com,PROXY
 HOST,tr.iadsdk.apple.com,PROXY
 HOST,cf.iadsdk.apple.com,PROXY
