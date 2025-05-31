@@ -14,6 +14,7 @@ HOST,ca.iadsdk.apple.com,PROXY
 HOST,weather-analytics-events.apple.com,PROXY
 HOST,notes-analytics-events.apple.com,PROXY
 HOST,partiality.itunes.apple.com,PROXY
+HOST,fbs.smoot.apple.com,PROXY
 
 HOST,apple.com,PROXY
 HOST,icloud.com,PROXY
