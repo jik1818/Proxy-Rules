@@ -15,6 +15,7 @@ HOST,weather-analytics-events.apple.com,PROXY
 HOST,notes-analytics-events.apple.com,PROXY
 HOST,partiality.itunes.apple.com,PROXY
 HOST,fbs.smoot.apple.com,PROXY
+HOST,xp.apple.com,PROXY
 HOST,api.smoot.apple.com,PROXY
 
 HOST,apple.com,PROXY
