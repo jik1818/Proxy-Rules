@@ -18,8 +18,8 @@ HOST,fbs.smoot.apple.com,PROXY
 HOST,xp.apple.com,PROXY
 HOST,api.smoot.apple.com,PROXY
 
-HOST,apple.com,PROXY
-HOST,icloud.com,PROXY
+HOST-SUFFIX,apple.com,PROXY
+HOST-SUFFIX,icloud.com,PROXY
 
 #Microsoft 诊断 遥测 代理
 HOST,mobile.events.data.microsoft.com,PROXY
