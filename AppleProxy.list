@@ -23,4 +23,4 @@ HOST-SUFFIX,icloud.com,PROXY
 
 #Microsoft 诊断 遥测 代理
 HOST,mobile.events.data.microsoft.com,PROXY
-HOST,microsoft.com,PROXY
+HOST-SUFFIX,microsoft.com,PROXY
