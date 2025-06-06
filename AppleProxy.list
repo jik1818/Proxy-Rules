@@ -21,8 +21,8 @@ HOST,api-safari-aapne1a.smoot.apple.com,PROXY
 HOST,api-safari.smoot.apple.com,PROXY
 HOST,cdn.smoot.apple.com,PROXY
 
-HOST-SUFFIX,apple.com,PROXY
-HOST-SUFFIX,icloud.com,PROXY
+HOST-KEYWORD,apple.com,PROXY
+HOST-KEYWORD,icloud.com,PROXY
 
 #Microsoft 诊断 遥测 代理
 HOST,mobile.events.data.microsoft.com,PROXY
