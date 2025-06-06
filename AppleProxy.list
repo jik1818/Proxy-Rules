@@ -18,6 +18,7 @@ HOST,fbs.smoot.apple.com,PROXY
 HOST,xp.apple.com,PROXY
 HOST,api.smoot.apple.com,PROXY
 HOST,api-safari-aapne1a.smoot.apple.com,PROXY
+HOST,api-safari.smoot.apple.com,PROXY
 
 HOST-SUFFIX,apple.com,PROXY
 HOST-SUFFIX,icloud.com,PROXY
