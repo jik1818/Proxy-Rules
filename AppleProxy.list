@@ -1,4 +1,5 @@
 #Apple 诊断 遥测 直连 代理 规则
+HOST,time.apple.com,DIRECT
 HOST,doh.dns.apple.com,DIRECT
 HOST,captive.apple.com,DIRECT
 HOST,init.push.apple.com,PROXY
