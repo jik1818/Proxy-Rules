@@ -5,8 +5,6 @@ HOST,configuration.ls.apple.com,DIRECT
 HOST,gateway.icloud.com,DIRECT
 HOST,doh.dns.apple.com,DIRECT
 HOST,captive.apple.com,DIRECT
-HOST,init.push.apple.com,PROXY
-HOST,courier.push.apple.com,PROXY
 HOST,push.apple.com,DIRECT
 
 HOST,metrics.icloud.com,PROXY
