@@ -3,7 +3,6 @@ HOST,time.apple.com,DIRECT
 HOST,bag.itunes.apple.com,DIRECT
 HOST,configuration.ls.apple.com,DIRECT
 HOST,gateway.icloud.com,DIRECT
-HOST,doh.dns.apple.com,DIRECT
 HOST,captive.apple.com,DIRECT
 HOST,push.apple.com,DIRECT
 
