@@ -5,6 +5,8 @@ HOST,configuration.ls.apple.com,DIRECT
 HOST,gateway.icloud.com,DIRECT
 HOST,captive.apple.com,DIRECT
 HOST,push.apple.com,DIRECT
+HOST,amp-api-edge.apps.apple.com,DIRECT
+HOST,amp-api-updates.apps.apple.com,DIRECT
 
 HOST,metrics.icloud.com,PROXY
 HOST,partiality.itunes.apple.com,PROXY
