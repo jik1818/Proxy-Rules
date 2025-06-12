@@ -8,21 +8,22 @@ HOST,push.apple.com,DIRECT
 
 HOST,metrics.icloud.com,PROXY
 HOST,partiality.itunes.apple.com,PROXY
+HOST,iadsdk.apple.com,PROXY
 HOST,tr.iadsdk.apple.com,PROXY
 HOST,cf.iadsdk.apple.com,PROXY
 HOST,ca.iadsdk.apple.com,PROXY
-HOST,iadsdk.apple.com,PROXY
 HOST,weather-analytics-events.apple.com,PROXY
 HOST,notes-analytics-events.apple.com,PROXY
 HOST,partiality.itunes.apple.com,PROXY
 HOST,xp.apple.com,PROXY
 HOST,api-safari-aapne1a.smoot.apple.com,PROXY
 HOST,api-safari.smoot.apple.com,PROXY
+HOST,smoot.apple.com,PROXY
 HOST,api.smoot.apple.com,PROXY
 HOST,cdn.smoot.apple.com,PROXY
 HOST,fbs.smoot.apple.com,PROXY
 HOST,api2.smoot.apple.com,PROXY
-HOST,smoot.apple.com,PROXY
+
 
 #Microsoft 诊断 遥测 代理
 HOST,mobile.events.data.microsoft.com,PROXY
