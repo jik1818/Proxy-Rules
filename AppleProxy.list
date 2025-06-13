@@ -1,6 +1,5 @@
 #Apple 诊断 遥测 直连 代理 规则
 HOST,time.apple.com,DIRECT
-HOST,bag.itunes.apple.com,DIRECT
 HOST,configuration.ls.apple.com,DIRECT
 HOST,gateway.icloud.com,DIRECT
 HOST,captive.apple.com,DIRECT
