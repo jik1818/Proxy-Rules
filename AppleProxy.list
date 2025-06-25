@@ -24,6 +24,7 @@ HOST,fbs.smoot.apple.com,PROXY
 HOST,api2.smoot.apple.com,PROXY
 HOST,updates.cdn-apple.com,PROXY
 HOST,experiments.apple.com,PROXY
+HOST,updates.cdn-apple.com,PROXY
 
 #Microsoft 诊断 遥测 代理
 HOST,mobile.events.data.microsoft.com,PROXY
