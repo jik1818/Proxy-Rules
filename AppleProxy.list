@@ -26,14 +26,9 @@ HOST,experiments.apple.com,PROXY
 HOST,updates.cdn-apple.com,PROXY
 HOST,doh.dns.apple.com,PROXY
 
-#Microsoft 诊断 遥测 代理
-HOST,mobile.events.data.microsoft.com,PROXY
-HOST,self.events.data.microsoft.com,PROXY
-HOST,in.appcenter.ms,PROXY
-HOST-KEYWORD,microsoft.com,PROXY
-
 #阿里云证书 直连
 HOST,ocsp.digicert.cn,DIRECT
+
 
 
 
