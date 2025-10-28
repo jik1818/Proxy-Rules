@@ -1,8 +1,8 @@
 #Apple 诊断 遥测 直连 代理 规则
-HOST,time.apple.com,DIRECT
 HOST,captive.apple.com,DIRECT
 HOST,init.push.apple.com,PROXY
-HOST,push.apple.com,DIRECT
+HOST,push.apple.com,PROXY
+HOST,time.apple.com,PROXY
 
 HOST,metrics.icloud.com,PROXY
 HOST,partiality.itunes.apple.com,PROXY
@@ -28,6 +28,7 @@ HOST,doh.dns.apple.com,PROXY
 
 #阿里云证书 直连
 HOST,ocsp.digicert.cn,DIRECT
+
 
 
 
