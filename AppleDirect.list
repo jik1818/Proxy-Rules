@@ -1,0 +1,7 @@
+#Apple阿里云证书 直连
+HOST,ocsp.digicert.cn,DIRECT
+
+#Apple 直连
+HOST-SUFFIX,captive.apple.com,DIRECT
+HOST-WILDCARD,*-cn-ssl.ls.apple.com,DIRECT
+HOST-KEYWORD,-cn-ssl.ls.apple.com,DIRECT
