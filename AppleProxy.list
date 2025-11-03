@@ -7,6 +7,7 @@ HOST-SUFFIX,fbs.smoot.apple.com,PROXY
 HOST-SUFFIX,partiality.itunes.apple.com,PROXY
 HOST-SUFFIX,afs.ampaeservices.com,PROXY
 HOST-WILDCARD,*.iadsdk.apple.com,PROXY
+HOST-WILDCARD,*.smoot.apple.com,PROXY
 
 #Apple 代理
 HOST-SUFFIX,itunes.com,PROXY
@@ -64,6 +65,7 @@ IP-CIDR,198.183.17.0/24,PROXY
 IP-CIDR,205.180.175.0/24,PROXY
 IP-CIDR,63.92.224.0/19,PROXY
 IP-CIDR,65.199.22.0/23,PROXY
+
 
 
 
