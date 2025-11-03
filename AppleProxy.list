@@ -10,6 +10,7 @@ HOST-WILDCARD,*.smoot.apple.com,PROXY
 HOST-SUFFIX,fbs.smoot.apple.com,PROXY
 
 HOST-WILDCARD,*.iadsdk.apple.com,PROXY
+HOST-SUFFIX,iadsdk.apple.com,PROXY
 HOST-SUFFIX,ca.iadsdk.apple.com,PROXY
 HOST-SUFFIX,tr.iadsdk.apple.com,PROXY
 HOST-SUFFIX,cf.iadsdk.apple.com,PROXY
@@ -71,6 +72,7 @@ IP-CIDR,198.183.17.0/24,PROXY
 IP-CIDR,205.180.175.0/24,PROXY
 IP-CIDR,63.92.224.0/19,PROXY
 IP-CIDR,65.199.22.0/23,PROXY
+
 
 
 
