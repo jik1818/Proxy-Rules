@@ -1,0 +1,3 @@
+#Apple 昆仑云验证拦截
+HOST-KEYWORD,cn-ssl.ls.apple.com,REJECT
+HOST-WILDCARD,*cn-ssl.ls.apple.com,REJECT
