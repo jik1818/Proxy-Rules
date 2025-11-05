@@ -1,11 +1,12 @@
-#Apple阿里云证书 直连
+#Apple 阿里云证书 直连
 HOST-SUFFIX,ocsp.digicert.cn,DIRECT
 
-#Apple 拦截 直连
-HOST-KEYWORD,cn-ssl.ls.apple.com,REJECT
-HOST-WILDCARD,*cn-ssl.ls.apple.com,REJECT
+#Apple 直连
+HOST-KEYWORD,cn-ssl.ls.apple.com,DIRECT
+HOST-WILDCARD,*cn-ssl.ls.apple.com,DIRECT
 HOST-SUFFIX,captive.apple.com,DIRECT
 HOST-SUFFIX,time.apple.com,DIRECT
+
 
 
 
