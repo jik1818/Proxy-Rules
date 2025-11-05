@@ -8,6 +8,7 @@ HOST-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,REJECT
 HOST-SUFFIX,is.autonavi.com,REJECT
 HOST-SUFFIX,jtrn.is.autonavi.com.gds.alibabadns.com,REJECT
 HOST-SUFFIX,amdc-sibling.alipay.com.cn,REJECT
+HOST-SUFFIX,api-mayi.django.t.taobao.com,REJECT
 
 
 
