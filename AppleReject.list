@@ -3,6 +3,9 @@
 HOST-KEYWORD,cn-ssl.ls.apple.com,REJECT
 HOST-WILDCARD,*-cn-ssl.ls.apple.com,REJECT
 HOST-SUFFIX,gsp85-cn-ssl.ls.apple.com,REJECT
+HOST-SUFFIX,jtrn.is.autonavi.com.gds.alibabadns.com,REJECT
+
+
 
 
 
