@@ -2,10 +2,11 @@
 HOST-SUFFIX,ocsp.digicert.cn,DIRECT
 
 #Apple 直连
-HOST-SUFFIX,captive.apple.com,DIRECT
-HOST-WILDCARD,*cn-ssl.ls.apple.com,DIRECT
 HOST-KEYWORD,cn-ssl.ls.apple.com,DIRECT
+HOST-WILDCARD,*cn-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,captive.apple.com,DIRECT
 HOST-SUFFIX,time.apple.com,DIRECT
+
 
 
 
