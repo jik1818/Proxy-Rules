@@ -2,6 +2,8 @@
 
 HOST-KEYWORD,cn-ssl.ls.apple.com,Apple
 HOST-WILDCARD,*-cn-ssl.ls.apple.com,Apple
+HOST-SUFFIX,gsp85-cn-ssl.ls.apple.com,Apple
+
 
 
 
