@@ -19,6 +19,52 @@ HOST-SUFFIX,ca.iadsdk.apple.com,PROXY
 HOST-SUFFIX,tr.iadsdk.apple.com,PROXY
 HOST-SUFFIX,cf.iadsdk.apple.com,PROXY
 
+#Apple 代理
+HOST-WILDCARD,*.apple.com,PROXY
+HOST-WILDCARD,*.itunes.com,PROXY
+HOST-WILDCARD,*.icloud.com,PROXY
+HOST-WILDCARD,*.icloud-content.com,PROXY
+HOST-WILDCARD,*.apple-cloudkit.com,PROXY
+HOST-WILDCARD,*.apple-mapkit.com,PROXY
+HOST-WILDCARD,*.cdn-apple.com,PROXY
+HOST-WILDCARD,*.mzstatic.com,PROXY
+HOST-WILDCARD,*.aaplimg.com,PROXY
+HOST-WILDCARD,*.apple-dns.net,PROXY
+HOST-WILDCARD,*.apple.cn,PROXY
+HOST-WILDCARD,*.fastly-edge.com,PROXY
+
+
+HOST-KEYWORD,apple-support.akadns.net,PROXY
+HOST-KEYWORD,apple.com.akadns.net,PROXY
+HOST-KEYWORD,apple.com.edgekey.net,PROXY
+HOST-KEYWORD,buy.itunes.apple.com,PROXY
+HOST-KEYWORD,smp-device,PROXY
+HOST-KEYWORD,testflight,PROXY
+HOST-KEYWORD,icloud.com.akadns.net,PROXY
+
+USER-AGENT,*FindMyiPhone?,PROXY
+USER-AGENT,*Music?,PROXY
+USER-AGENT,*WeatherFoundation*,PROXY
+USER-AGENT,*com.apple.Maps?,PROXY
+USER-AGENT,*com.apple.mobileme.fmip1,PROXY
+USER-AGENT,FMDClient*,PROXY
+USER-AGENT,FMFD*,PROXY
+USER-AGENT,FindMyFriends*,PROXY
+USER-AGENT,FindMyiPhone*,PROXY
+USER-AGENT,Maps*,PROXY
+USER-AGENT,Wallet*,PROXY
+USER-AGENT,com.apple.Maps,PROXY
+USER-AGENT,com.apple.appstored*,PROXY
+USER-AGENT,fmflocatord*,PROXY
+USER-AGENT,geod*,PROXY
+USER-AGENT,locationd*,PROXY
+USER-AGENT,passd*,PROXY
+USER-AGENT,Music*,PROXY
+USER-AGENT,AppleNews*,PROXY
+USER-AGENT,com.apple.news*,PROXY
+USER-AGENT,AppleTV*,PROXY
+USER-AGENT,com.apple.trustd*,PROXY
+USER-AGENT,com.apple.tv*,PROXY
 
 
 
