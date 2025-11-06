@@ -4,6 +4,12 @@ HOST-WILDCARD,*-cn-ssl.ls.apple.com,REJECT
 HOST-SUFFIX,gsp85-cn-ssl.ls.apple.com,REJECT
 HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,REJECT
 HOST-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,REJECT
+HOST-SUFFIX,gspe11-2-cn-ssl.ls.apple.com,REJECT
+HOST-SUFFIX,gspe12-cn-ssl.ls.apple.com,REJECT
+HOST-SUFFIX,gspe85-cn-ssl.ls.apple.com,REJECT
+HOST-SUFFIX,gsi39-cn-ssl.ls.apple.com,REJECT
+HOST-SUFFIX,gsi4-cn2-ssl.ls.apple.com,REJECT
+HOST-SUFFIX,gs-loc-cn.apple.com,REJECT
 
 
 
@@ -12,6 +18,7 @@ HOST-SUFFIX,is.autonavi.com,REJECT
 HOST-SUFFIX,jtrn.is.autonavi.com.gds.alibabadns.com,REJECT
 HOST-SUFFIX,amdc-sibling.alipay.com.cn,REJECT
 HOST-SUFFIX,api-mayi.django.t.taobao.com,REJECT
+
 
 
 
