@@ -1,6 +1,8 @@
 # Apple 金山 阿里 昆仑云 验证拦截
-HOST-KEYWORD,cn-ssl.ls.apple.com,REJECT
 HOST-WILDCARD,*-cn-ssl.ls.apple.com,REJECT
+HOST-WILDCARD,*cn2-ssl.ls.apple.com,REJECT
+HOST-WILDCARD,*-cn.apple.com,REJECT
+
 HOST-SUFFIX,gsp85-cn-ssl.ls.apple.com,REJECT
 HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,REJECT
 HOST-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,REJECT
@@ -18,6 +20,7 @@ HOST-SUFFIX,is.autonavi.com,REJECT
 HOST-SUFFIX,jtrn.is.autonavi.com.gds.alibabadns.com,REJECT
 HOST-SUFFIX,amdc-sibling.alipay.com.cn,REJECT
 HOST-SUFFIX,api-mayi.django.t.taobao.com,REJECT
+
 
 
 
