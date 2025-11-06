@@ -33,7 +33,6 @@ HOST-WILDCARD,*.apple-dns.net,PROXY
 HOST-WILDCARD,*.apple.cn,PROXY
 HOST-WILDCARD,*.fastly-edge.com,PROXY
 
-
 HOST-KEYWORD,apple-support.akadns.net,PROXY
 HOST-KEYWORD,apple.com.akadns.net,PROXY
 HOST-KEYWORD,apple.com.edgekey.net,PROXY
@@ -65,6 +64,7 @@ USER-AGENT,com.apple.news*,PROXY
 USER-AGENT,AppleTV*,PROXY
 USER-AGENT,com.apple.trustd*,PROXY
 USER-AGENT,com.apple.tv*,PROXY
+
 
 
 
