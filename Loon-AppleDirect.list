@@ -1,0 +1,6 @@
+# Apple 阿里云证书 直连
+DOMAIN-SUFFIX,ocsp.digicert.cn,DIRECT
+
+# Apple 直连
+DOMAIN-SUFFIX,captive.apple.com,DIRECT
+DOMAIN-SUFFIX,time.apple.com,DIRECT
