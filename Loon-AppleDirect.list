@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,ocsp.digicert.cn,DIRECT
 
 # Apple 直连
 DOMAIN-SUFFIX,captive.apple.com,DIRECT
-DOMAIN-SUFFIX,time.apple.com,DIRECT
+
