@@ -14,7 +14,9 @@ DOMAIN-SUFFIX,gsi4-cn2-ssl.ls.apple.com,REJECT
 DOMAIN-SUFFIX,gs-loc-cn.apple.com,REJECT
 
 #Apple高德地图 拦截
-DOMAIN-SUFFIX, is.autonavi.com, REJECT
+DOMAIN-SUFFIX,is.autonavi.com,REJECT
+#泰隆银行
+DOMAIN-SUFFIX,jpush.cn,REJECT
 
 # 阿里系 拦截
 DOMAIN-SUFFIX,jtrn.is.autonavi.com.gds.alibabadns.com,REJECT
@@ -27,4 +29,5 @@ DOMAIN-SUFFIX,bdlog.tanx.com,REJECT
 DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
 DOMAIN-SUFFIX,guide-acs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,ynuf.aliapp.org,REJECT
+
 
