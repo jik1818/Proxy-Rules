@@ -32,6 +32,9 @@ DOMAIN-SUFFIX,bdlog.tanx.com,REJECT
 DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
 DOMAIN-SUFFIX,guide-acs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,ynuf.aliapp.org,REJECT
+DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
+DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
+
 
 
 
