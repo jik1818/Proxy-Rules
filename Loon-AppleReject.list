@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,gs-loc-cn.apple.com,REJECT
 #Apple高德地图 拦截
 DOMAIN-SUFFIX,is.autonavi.com,REJECT
 
-#泰隆银行
+#泰隆银行 拦截
 DOMAIN-SUFFIX,jpush.cn,REJECT
 DOMAIN-SUFFIX,config-junion.jpush.cn,REJECT
 DOMAIN-KEYWORD,junion.jpush.cn,REJECT
@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,guide-acs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,ynuf.aliapp.org,REJECT
 DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
 DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
+
 
 
 
