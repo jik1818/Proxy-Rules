@@ -25,4 +25,6 @@ DOMAIN-SUFFIX,mdap.alipay.com,REJECT
 DOMAIN-SUFFIX,audid-api.taobao.com,REJECT
 DOMAIN-SUFFIX,bdlog.tanx.com,REJECT
 DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
+DOMAIN-SUFFIX,guide-acs.m.taobao.com,REJECT
+DOMAIN-SUFFIX,ynuf.aliapp.org,REJECT
 
