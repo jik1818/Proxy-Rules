@@ -1,8 +1,12 @@
-#====订阅直连规则====
+#====直连规则====
 
 #阿里系直连
 DOMAIN-SUFFIX,amap.com,DIRECT
 DOMAIN-SUFFIX,ele.me,DIRECT
+DOMAIN-SUFFIX,ifaa.org.cn,DIRECT
+DOMAIN-SUFFIX,luohanacademy.com,DIRECT
+DOMAIN-SUFFIX,sinopayment.com.cn,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
 DOMAIN-KEYWORD,alipay,DIRECT
 DOMAIN-KEYWORD,taobao,DIRECT
 DOMAIN-KEYWORD,zjzwfw,DIRECT
@@ -11,6 +15,9 @@ DOMAIN-KEYWORD,alibabadns,DIRECT
 DOMAIN-KEYWORD,alicdn,DIRECT
 DOMAIN-KEYWORD,aliyuncs,DIRECT
 DOMAIN-KEYWORD,cup.com.cn,DIRECT
+
+#腾讯 微信 直连
+
 
 # 阿里云（Alibaba Cloud）
 IP-ASN,45102,DIRECT
@@ -123,6 +130,7 @@ IP-ASN,135377,DIRECT
 
 # 中移铁通（CM Tietong）
 IP-ASN,24400,DIRECT
+
 
 
 
