@@ -4,3 +4,18 @@ HOST-SUFFIX,ocsp.digicert.cn,DIRECT
 # Apple 直连
 HOST-SUFFIX,captive.apple.com,DIRECT
 HOST-SUFFIX,time.apple.com,DIRECT
+
+# Apple 金山 阿里 昆仑云 直连
+HOST-WILDCARD,*-cn-ssl.ls.apple.com,DIRECT
+HOST-WILDCARD,*cn2-ssl.ls.apple.com,DIRECT
+HOST-WILDCARD,*-cn.apple.com,DIRECT
+
+HOST-SUFFIX,gsp85-cn-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,gspe11-2-cn-ssl.ls.apple.comDIRECT
+HOST-SUFFIX,gspe12-cn-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,gspe85-cn-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,gsi39-cn-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,gsi4-cn2-ssl.ls.apple.com,DIRECT
+HOST-SUFFIX,gs-loc-cn.apple.com,DIRECT
