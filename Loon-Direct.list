@@ -17,7 +17,24 @@ DOMAIN-KEYWORD,aliyuncs,DIRECT
 DOMAIN-KEYWORD,cup.com.cn,DIRECT
 
 #腾讯 微信 直连
-
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,iot-tencent.com,DIRECT
+DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
+DOMAIN-SUFFIX,xy-asia.com,DIRECT
+DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-SUFFIX,qlogo.cn,DIRECT
+DOMAIN-SUFFIX,qpic.cn,DIRECT
+DOMAIN-SUFFIX,servicewechat.com,DIRECT
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,wechatlegal.net,DIRECT
+DOMAIN-SUFFIX,wechatos.net,DIRECT
+DOMAIN-SUFFIX,wechatpay.com,DIRECT
+DOMAIN-SUFFIX,weixin.com,DIRECT
+DOMAIN-SUFFIX,weixinbridge.com,DIRECT
+DOMAIN-SUFFIX,weixinsxy.com,DIRECT
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
 
 # 阿里云（Alibaba Cloud）
 IP-ASN,45102,DIRECT
@@ -130,6 +147,7 @@ IP-ASN,135377,DIRECT
 
 # 中移铁通（CM Tietong）
 IP-ASN,24400,DIRECT
+
 
 
 
