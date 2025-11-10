@@ -47,6 +47,19 @@ DOMAIN-SUFFIX,baidu.com,DIRECT
 #宁波银行
 DOMAIN-SUFFIX,nbcb.com.cn,DIRECT
 
+#光大银行
+DOMAIN-SUFFIX,cebbank.com,DIRECT
+DOMAIN-SUFFIX,95516.com,DIRECT
+
+#泰隆银行
+DOMAIN-SUFFIX,zjtlcb.com,DIRECT
+DOMAIN-SUFFIX,bdstatic.com,DIRECT
+
+#招商银行（掌上生活）
+DOMAIN-SUFFIX,cmbchina.com,DIRECT
+DOMAIN-SUFFIX,joying.com,DIRECT
+DOMAIN-SUFFIX,pipi.cn,DIRECT
+
 # 阿里云（Alibaba Cloud）
 IP-ASN,45102,DIRECT
 IP-ASN,37963,DIRECT
@@ -158,6 +171,7 @@ IP-ASN,135377,DIRECT
 
 # 中移铁通（CM Tietong）
 IP-ASN,24400,DIRECT
+
 
 
 
