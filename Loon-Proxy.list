@@ -9,6 +9,13 @@ HOST-SUFFIX,digitalcertvalidation.com,PROXY
 HOST-SUFFIX,rapidssl.com,PROXY
 HOST-SUFFIX,amazontrust.com,PROXY
 
+#====Box网盘代理====
+DOMAIN-SUFFIX,box.com,PROXY
+DOMAIN-SUFFIX,box.net,PROXY
+DOMAIN-SUFFIX,boxcdn.net,PROXY
+DOMAIN-SUFFIX,segment-box.com,PROXY
+DOMAIN-SUFFIX,boxcloud.com,PROXY
+
 #====自定义代理====
 DOMAIN-SUFFIX,nsloon.com,PROXY
 DOMAIN-SUFFIX,kelee.one,PROXY
@@ -62,6 +69,7 @@ DOMAIN-SUFFIX,hk01.com,PROXY
 DOMAIN-SUFFIX,revma.com,PROXY
 DOMAIN-SUFFIX,dw.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
+
 
 
 
