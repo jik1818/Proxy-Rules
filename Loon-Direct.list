@@ -36,6 +36,12 @@ DOMAIN-SUFFIX,weixinsxy.com,DIRECT
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 
+#优酷 直连
+DOMAIN-SUFFIX,youku.com,DIRECT
+
+#百度 直连
+DOMAIN-SUFFIX,baidu.com,DIRECT
+
 # 阿里云（Alibaba Cloud）
 IP-ASN,45102,DIRECT
 IP-ASN,37963,DIRECT
@@ -147,6 +153,7 @@ IP-ASN,135377,DIRECT
 
 # 中移铁通（CM Tietong）
 IP-ASN,24400,DIRECT
+
 
 
 
