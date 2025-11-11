@@ -18,19 +18,19 @@ DOMAIN-SUFFIX,tr.iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,cf.iadsdk.apple.com,PROXY
 
 # Apple 代理
-DOMAIN-KEYWORD,.apple.com,PROXY
-DOMAIN-KEYWORD,.itunes.com,PROXY
-DOMAIN-KEYWORD,.icloud.com,PROXY
-DOMAIN-KEYWORD,.icloud-content.com,PROXY
-DOMAIN-KEYWORD,.apple-cloudkit.com,PROXY
-DOMAIN-KEYWORD,.apple-mapkit.com,PROXY
-DOMAIN-KEYWORD,.cdn-apple.com,PROXY
-DOMAIN-KEYWORD,.mzstatic.com,PROXY
-DOMAIN-KEYWORD,.aaplimg.com,PROXY
-DOMAIN-KEYWORD,.apple-dns.net,PROXY
-DOMAIN-KEYWORD,.apple.cn,PROXY
-DOMAIN-KEYWORD,.fastly-edge.com,PROXY
-DOMAIN-KEYWORD,-ssl.ls.apple.com.edgesuite.net,PROXY
+DOMAIN-SUFFIX,apple.com,PROXY
+DOMAIN-SUFFIX,itunes.com,PROXY
+DOMAIN-SUFFIX,icloud.com,PROXY
+DOMAIN-SUFFIX,icloud-content.com,PROXY
+DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
+DOMAIN-SUFFIX,apple-mapkit.com,PROXY
+DOMAIN-SUFFIX,cdn-apple.com,PROXY
+DOMAIN-SUFFIX,mzstatic.com,PROXY
+DOMAIN-SUFFIX,aaplimg.com,PROXY
+DOMAIN-SUFFIX,apple-dns.net,PROXY
+DOMAIN-SUFFIX,apple.cn,PROXY
+DOMAIN-SUFFIX,fastly-edge.com,PROXY
+DOMAIN-SUFFIX,edgesuite.net,PROXY
 
 DOMAIN-KEYWORD,apple-support.akadns.net,PROXY
 DOMAIN-KEYWORD,apple.com.akadns.net,PROXY
@@ -78,6 +78,7 @@ IP-CIDR,65.199.22.0/23,PROXY
 
 # cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
+
 
 
 
