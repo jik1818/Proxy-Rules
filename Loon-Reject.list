@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
 
 # 第三方广告跟踪拦截
 DOMAIN-SUFFIX,adnxs.com,REJECT
+DOMAIN-SUFFIX,gepush.com,REJECT
+
+
