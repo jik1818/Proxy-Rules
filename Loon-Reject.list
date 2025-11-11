@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,guide-acs.m.taobao.com,REJECT
 DOMAIN-SUFFIX,ynuf.aliapp.org,REJECT
 DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
 DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
+
+# 第三方广告跟踪拦截
+DOMAIN-SUFFIX,adnxs.com,REJECT
