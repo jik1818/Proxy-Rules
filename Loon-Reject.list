@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,config-junion.jpush.cn,REJECT
 DOMAIN-KEYWORD,jpush.cn,REJECT
 
 # 阿里系 拦截
+DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
 DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
 DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
 # 第三方广告跟踪拦截
 DOMAIN-SUFFIX,adnxs.com,REJECT
 DOMAIN-SUFFIX,gepush.com,REJECT
+
 
 
 
