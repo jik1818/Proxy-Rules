@@ -29,8 +29,8 @@ DOMAIN-SUFFIX,mzstatic.com,PROXY
 DOMAIN-SUFFIX,aaplimg.com,PROXY
 DOMAIN-SUFFIX,apple-dns.net,PROXY
 DOMAIN-SUFFIX,apple.cn,PROXY
-DOMAIN-SUFFIX,fastly-edge.com,PROXY
-DOMAIN-SUFFIX,edgesuite.net,PROXY
+
+
 
 
 
