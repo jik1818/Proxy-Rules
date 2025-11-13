@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,apple.cn,PROXY
 # 微软 Microsoft Copilot 遥测-诊断 代理
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,c.bing.com,PROXY
+DOMAIN-SUFFIX,in.appcenter.ms,PROXY
+
 
 
 
