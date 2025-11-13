@@ -13,9 +13,21 @@ DOMAIN-SUFFIX,mdap.alipay.com,REJECT
 DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
 DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
 
-# 第三方广告跟踪拦截
-DOMAIN-SUFFIX,adnxs.com,REJECT
-DOMAIN-SUFFIX,gepush.com,REJECT
+# Google广告与跟踪拦截
+DOMAIN-KEYWORD,doubleclick,REJECT-DICT
+DOMAIN-SUFFIX,adservice.google.com,REJECT-DICT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT-DICT
+DOMAIN-SUFFIX,google-analytics.com,REJECT-DICT
+DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DICT
+
+# 已知恶意拦截
+DOMAIN-SUFFIX,wiki,REJECT
+DOMAIN-SUFFIX,life,REJECT
+DOMAIN-SUFFIX,live,REJECT
+DOMAIN-SUFFIX,site,REJECT
+DOMAIN-SUFFIX,fmm.io,REJECT
+DOMAIN-SUFFIX,bit.ly,REJECT
+
 
 
 
