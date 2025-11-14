@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 
 # 新加坡联合早报
+DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN-SUFFIX,shareinvestor.com,PROXY
 DOMAIN-SUFFIX,sphdigital.com.sg,PROXY
 DOMAIN-SUFFIX,sphlabs.com,PROXY
@@ -78,6 +79,7 @@ DOMAIN-SUFFIX,hk01.com,PROXY
 DOMAIN-SUFFIX,revma.com,PROXY
 DOMAIN-SUFFIX,dw.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
+
 
 
 
