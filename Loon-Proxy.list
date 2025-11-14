@@ -1,7 +1,13 @@
 # cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 
-#====证书代理规则====
+# 新加坡联合早报
+DOMAIN-SUFFIX,shareinvestor.com,PROXY
+DOMAIN-SUFFIX,sphdigital.com.sg,PROXY
+DOMAIN-SUFFIX,sphlabs.com,PROXY
+DOMAIN-SUFFIX,sph.com.sg,PROXY
+
+# 证书代理规则
 HOST-SUFFIX,comodoca.com,PROXY
 HOST-SUFFIX,sectigo.com,PROXY
 HOST-SUFFIX,digicert.com,PROXY
@@ -12,14 +18,14 @@ HOST-SUFFIX,digitalcertvalidation.com,PROXY
 HOST-SUFFIX,rapidssl.com,PROXY
 HOST-SUFFIX,amazontrust.com,PROXY
 
-#====Box网盘代理====
+# Box网盘代理
 DOMAIN-SUFFIX,box.com,PROXY
 DOMAIN-SUFFIX,box.net,PROXY
 DOMAIN-SUFFIX,boxcdn.net,PROXY
 DOMAIN-SUFFIX,segment-box.com,PROXY
 DOMAIN-SUFFIX,boxcloud.com,PROXY
 
-#====自定义代理====
+# 自定义代理
 DOMAIN-SUFFIX,nsloon.com,PROXY
 DOMAIN-SUFFIX,kelee.one,PROXY
 DOMAIN-SUFFIX,whatshub.top,PROXY
@@ -72,6 +78,7 @@ DOMAIN-SUFFIX,hk01.com,PROXY
 DOMAIN-SUFFIX,revma.com,PROXY
 DOMAIN-SUFFIX,dw.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
+
 
 
 
