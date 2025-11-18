@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,mdap.alipay.com,REJECT
 DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
 DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
+DOMAIN-SUFFIX,yixiu-abtest.alicdn.com,REJECT
 
 # Google 微软 广告与跟踪拦截
 DOMAIN-KEYWORD,doubleclick,REJECT-DICT
@@ -30,6 +31,7 @@ DOMAIN-SUFFIX,live,REJECT
 DOMAIN-SUFFIX,site,REJECT
 DOMAIN-SUFFIX,fmm.io,REJECT
 DOMAIN-SUFFIX,bit.ly,REJECT
+
 
 
 
