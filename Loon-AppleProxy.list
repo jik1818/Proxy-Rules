@@ -6,11 +6,9 @@ DOMAIN-SUFFIX,notes-analytics-events.apple.com,PROXY
 DOMAIN-SUFFIX,partiality.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,metrics.icloud.com,PROXY
 
-DOMAIN-KEYWORD,.smoot.apple.com,PROXY
 DOMAIN-KEYWORD,smoot.apple.com,PROXY
 DOMAIN-SUFFIX,fbs.smoot.apple.com,PROXY
 
-DOMAIN-KEYWORD,.iadsdk.apple.com,PROXY
 DOMAIN-KEYWORD,iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,ca.iadsdk.apple.com,PROXY
@@ -21,6 +19,7 @@ DOMAIN-SUFFIX,cf.iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,c.bing.com,PROXY
 DOMAIN-SUFFIX,in.appcenter.ms,PROXY
+
 
 
 
