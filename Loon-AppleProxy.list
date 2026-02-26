@@ -17,10 +17,14 @@ DOMAIN-SUFFIX,ca.iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,tr.iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,cf.iadsdk.apple.com,PROXY
 
+# Apple 代理
+DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
+
 # 微软 Microsoft Copilot 遥测-诊断 代理
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,c.bing.com,PROXY
 DOMAIN-SUFFIX,in.appcenter.ms,PROXY
+
 
 
 
