@@ -17,23 +17,11 @@ DOMAIN-SUFFIX,ca.iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,tr.iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,cf.iadsdk.apple.com,PROXY
 
-# Apple 代理
-DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,itunes.com,PROXY
-DOMAIN-SUFFIX,icloud.com,PROXY
-DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
-DOMAIN-SUFFIX,apple-mapkit.com,PROXY
-DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,mzstatic.com,PROXY
-DOMAIN-SUFFIX,aaplimg.com,PROXY
-DOMAIN-SUFFIX,apple-dns.net,PROXY
-DOMAIN-SUFFIX,apple.cn,PROXY
-
 # 微软 Microsoft Copilot 遥测-诊断 代理
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,c.bing.com,PROXY
 DOMAIN-SUFFIX,in.appcenter.ms,PROXY
+
 
 
 
