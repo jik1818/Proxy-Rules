@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,gsas.apple.com,PROXY
 DOMAIN-SUFFIX,wps.apple.com,PROXY
 DOMAIN-SUFFIX,bpapi.apple.com,PROXY
 DOMAIN-SUFFIX,gsa.apple.com,PROXY
+DOMAIN-SUFFIX,amp-account.itunes.apple.com,PROXY
+
 
 
 
