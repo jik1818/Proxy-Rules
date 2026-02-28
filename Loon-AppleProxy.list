@@ -25,6 +25,7 @@ DOMAIN-KEYWORD,ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,quota.icloud.com,PROXY
 DOMAIN-KEYWORD,acsegateway.icloud.com,PROXY
+DOMAIN-KEYWORD,escrowproxy.icloud.com,PROXY
 DOMAIN-KEYWORD,fmip.icloud.com,PROXY
 DOMAIN-KEYWORD,fmipmobile.icloud.com,PROXY
 DOMAIN-KEYWORD,-courier.push.apple.com,PROXY
@@ -45,6 +46,7 @@ DOMAIN-SUFFIX,lcdn-locator.apple.com,PROXY
 DOMAIN-SUFFIX,identity.ess.apple.com,PROXY
 DOMAIN-SUFFIX,profile.ess.apple.com,PROXY
 DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
+
 
 
 
