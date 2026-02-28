@@ -51,8 +51,13 @@ DOMAIN-SUFFIX,configuration.ls.apple.com,PROXY
 DOMAIN-SUFFIX,amp-api-edge.apps.apple.com,PROXY
 DOMAIN-SUFFIX,xp.apple.com,PROXY
 DOMAIN-SUFFIX,time.apple.com,PROXY
+DOMAIN-SUFFIX,se2.itunes.apple.com,PROXY
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com,PROXY
+DOMAIN-SUFFIX,pancake.apple.com,PROXY
+
 DOMAIN-SUFFIX,apple.com,PROXY
 DOMAIN-SUFFIX,icloud.com,PROXY
+
 
 
 
