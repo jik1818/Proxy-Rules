@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,lcdn-locator.apple.com,PROXY
 DOMAIN-SUFFIX,identity.ess.apple.com,PROXY
 DOMAIN-SUFFIX,profile.ess.apple.com,PROXY
 DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
+DOMAIN-SUFFIX,static.ess.apple.com,PROXY
+
 
 
 
