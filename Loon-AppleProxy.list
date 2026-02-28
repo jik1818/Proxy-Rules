@@ -28,6 +28,7 @@ DOMAIN-KEYWORD,acsegateway.icloud.com,PROXY
 DOMAIN-KEYWORD,fmip.icloud.com,PROXY
 DOMAIN-KEYWORD,fmipmobile.icloud.com,PROXY
 DOMAIN-KEYWORD,-courier.push.apple.com,PROXY
+DOMAIN-SUFFIX,init.push.apple.com,PROXY
 DOMAIN-SUFFIX,gateway.icloud.com,PROXY
 DOMAIN-SUFFIX,setup.icloud.com,PROXY
 DOMAIN-SUFFIX,gdmf.apple.com,PROXY
@@ -41,7 +42,8 @@ DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
 DOMAIN-SUFFIX,gdmf-ados.apple.com,PROXY
 DOMAIN-SUFFIX,bag.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,lcdn-locator.apple.com,PROXY
-DOMAIN-SUFFIX,init.push.apple.com,PROXY
+
+
 
 
 
