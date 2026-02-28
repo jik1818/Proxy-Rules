@@ -20,6 +20,10 @@ DOMAIN-SUFFIX,mobile.events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,c.bing.com,PROXY
 DOMAIN-SUFFIX,in.appcenter.ms,PROXY
 
+# Apple 代理
+DOMAIN-KEYWORD,ssl.ls.apple.com,PROXY
+
+
 
 
 
