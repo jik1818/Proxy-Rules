@@ -55,9 +55,11 @@ DOMAIN-SUFFIX,se2.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,inappcheck.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,pancake.apple.com,PROXY
 DOMAIN-SUFFIX,iphone-ld.apple.com,PROXY
+DOMAIN-SUFFIX,weatherkit.apple.com,PROXY
 
 DOMAIN-SUFFIX,apple.com,PROXY
 DOMAIN-SUFFIX,icloud.com,PROXY
+
 
 
 
