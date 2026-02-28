@@ -49,9 +49,11 @@ DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
 DOMAIN-SUFFIX,static.ess.apple.com,PROXY
 DOMAIN-SUFFIX,configuration.ls.apple.com,PROXY
 DOMAIN-SUFFIX,amp-api-edge.apps.apple.com,PROXY
+DOMAIN-SUFFIX,xp.apple.com,PROXY
 DOMAIN-SUFFIX,time.apple.com,PROXY
 DOMAIN-SUFFIX,apple.com,PROXY
 DOMAIN-SUFFIX,icloud.com,PROXY
+
 
 
 
