@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,gateway.icloud.com,PROXY
 DOMAIN-SUFFIX,setup.icloud.com,PROXY
 DOMAIN-SUFFIX,gdmf.apple.com,PROXY
 DOMAIN-SUFFIX,gsas.apple.com,PROXY
+DOMAIN-SUFFIX,wps.apple.com,PROXY
+DOMAIN-SUFFIX,bpapi.apple.com,PROXY
+
 
 
 
