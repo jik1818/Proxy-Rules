@@ -21,8 +21,6 @@ DOMAIN-SUFFIX,googlesyndication.com,REJECT-DICT
 DOMAIN-SUFFIX,google-analytics.com,REJECT-DICT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DICT
 
-
-
 # 已知恶意拦截
 DOMAIN-SUFFIX,wiki,REJECT
 DOMAIN-SUFFIX,life,REJECT
@@ -32,6 +30,7 @@ DOMAIN-SUFFIX,fmm.io,REJECT
 DOMAIN-SUFFIX,ipapi.co,REJECT
 DOMAIN-SUFFIX,ip.sb,REJECT
 DOMAIN-SUFFIX,v21c.com,REJECT
+
 
 
 
