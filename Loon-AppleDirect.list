@@ -10,8 +10,6 @@ DOMAIN-KEYWORD,-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-KEYWORD,cn2-ssl.ls.apple.com,DIRECT
 DOMAIN-KEYWORD,-cn.apple.com,DIRECT
 
-
-
 DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,DIRECT
@@ -21,6 +19,7 @@ DOMAIN-SUFFIX,gspe85-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsi39-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsi4-cn2-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gs-loc-cn.apple.com,DIRECT
+
 
 
 
