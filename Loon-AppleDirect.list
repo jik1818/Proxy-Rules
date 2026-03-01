@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,captive.apple.com,DIRECT
 DOMAIN-SUFFIX,digicert.cn,DIRECT
 DOMAIN-SUFFIX,apple.cn,DIRECT
+DOMAIN-SUFFIX,queniuak.com,DIRECT
 
 # Apple 金山 阿里 昆仑云 验证 直连
 DOMAIN-KEYWORD,cn-ssl,DIRECT
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,gsi39-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsi4-cn2-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gs-loc-cn.apple.com,DIRECT
 DOMAIN-SUFFIX,cn,DIRECT
+
 
 
 
