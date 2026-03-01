@@ -21,44 +21,17 @@ DOMAIN-SUFFIX,c.bing.com,PROXY
 DOMAIN-SUFFIX,in.appcenter.ms,PROXY
 
 # Apple 代理
-DOMAIN-KEYWORD,ssl.ls.apple.com,PROXY
-DOMAIN-KEYWORD,fmf.icloud.com,PROXY
-DOMAIN-KEYWORD,quota.icloud.com,PROXY
-DOMAIN-KEYWORD,acsegateway.icloud.com,PROXY
-DOMAIN-KEYWORD,escrowproxy.icloud.com,PROXY
-DOMAIN-KEYWORD,fmip.icloud.com,PROXY
-DOMAIN-KEYWORD,fmipmobile.icloud.com,PROXY
-DOMAIN-KEYWORD,-courier.push.apple.com,PROXY
-DOMAIN-SUFFIX,init.push.apple.com,PROXY
-DOMAIN-SUFFIX,gateway.icloud.com,PROXY
-DOMAIN-SUFFIX,setup.icloud.com,PROXY
-DOMAIN-SUFFIX,gdmf.apple.com,PROXY
-DOMAIN-SUFFIX,gsas.apple.com,PROXY
-DOMAIN-SUFFIX,wps.apple.com,PROXY
-DOMAIN-SUFFIX,bpapi.apple.com,PROXY
-DOMAIN-SUFFIX,gsa.apple.com,PROXY
-DOMAIN-SUFFIX,amp-account.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,weather-edge.apple.com,PROXY
-DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
-DOMAIN-SUFFIX,gdmf-ados.apple.com,PROXY
-DOMAIN-SUFFIX,bag.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,lcdn-locator.apple.com,PROXY
-DOMAIN-SUFFIX,identity.ess.apple.com,PROXY
-DOMAIN-SUFFIX,profile.ess.apple.com,PROXY
-DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
-DOMAIN-SUFFIX,static.ess.apple.com,PROXY
-DOMAIN-SUFFIX,configuration.ls.apple.com,PROXY
-DOMAIN-SUFFIX,amp-api-edge.apps.apple.com,PROXY
-DOMAIN-SUFFIX,xp.apple.com,PROXY
-DOMAIN-SUFFIX,time.apple.com,PROXY
-DOMAIN-SUFFIX,se2.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,inappcheck.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,pancake.apple.com,PROXY
-DOMAIN-SUFFIX,iphone-ld.apple.com,PROXY
-DOMAIN-SUFFIX,weatherkit.apple.com,PROXY
-
 DOMAIN-SUFFIX,apple.com,PROXY
+DOMAIN-SUFFIX,itunes.com,PROXY
 DOMAIN-SUFFIX,icloud.com,PROXY
+DOMAIN-SUFFIX,icloud-content.com,PROXY
+DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
+DOMAIN-SUFFIX,apple-mapkit.com,PROXY
+DOMAIN-SUFFIX,cdn-apple.com,PROXY
+DOMAIN-SUFFIX,mzstatic.com,PROXY
+DOMAIN-SUFFIX,aaplimg.com,PROXY
+DOMAIN-SUFFIX,apple-dns.net,PROXY
+
 
 
 
