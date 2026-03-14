@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,cloudflare.com,PROXY
 # Grok Ai
 DOMAIN-SUFFIX,grokusercontent.com,PROXY
 DOMAIN-SUFFIX,chronosphere.io,PROXY
+DOMAIN-SUFFIX,eu.org,PROXY
 
 # 新加坡联合早报
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
