@@ -1,6 +1,9 @@
 # cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 
+# Grok Ai
+DOMAIN-SUFFIX,chronosphere.io,PROXY
+
 # 新加坡联合早报
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN-SUFFIX,shareinvestor.com,PROXY
