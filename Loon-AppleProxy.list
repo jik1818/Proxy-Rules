@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,clienttracing-pa.googleapis.com,PROXY
 DOMAIN-SUFFIX,growth-pa.googleapis.com,PROXY
 DOMAIN-SUFFIX,ogads-pa.googleapis.com,PROXY
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com,PROXY
+DOMAIN-SUFFIX,clienttracing-pa.googleapis.com,PROXY
 
 # Apple 代理
 DOMAIN-SUFFIX,apple.com,PROXY
