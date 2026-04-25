@@ -1,3 +1,7 @@
+# Reality协议 SNI 直连 微软 苹果 
+DOMAIN-SUFFIX,www.apple.com,DIRECT
+DOMAIN-SUFFIX,www.microsoft.com,DIRECT
+
 # Apple 直连
 DOMAIN-SUFFIX,captive.apple.com,DIRECT
 DOMAIN-SUFFIX,digicert.cn,DIRECT
@@ -22,8 +26,8 @@ DOMAIN-SUFFIX,gsi39-cn-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gsi4-cn2-ssl.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,gs-loc-cn.apple.com,DIRECT
 
-# Microsoft微软 直连
-DOMAIN-SUFFIX,www.microsoft.com,DIRECT
+
+
 
 
 
