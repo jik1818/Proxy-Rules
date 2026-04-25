@@ -1,5 +1,6 @@
 # Reality 协议 SNI 直连 微软 苹果 
 DOMAIN-SUFFIX,www.apple.com,DIRECT
+DOMAIN-SUFFIX,www.amd.com,DIRECT
 DOMAIN-SUFFIX,www.microsoft.com,DIRECT
 
 # Apple 直连
