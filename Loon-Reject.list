@@ -34,6 +34,9 @@ DOMAIN-SUFFIX,ipapi.co,REJECT
 DOMAIN-SUFFIX,ip.sb,REJECT
 DOMAIN-SUFFIX,v21c.com,REJECT
 
+# 第三方跟踪拦截
+DOMAIN-SUFFIX,greylabeldelivery.com,REJECT
+
 
 
 
