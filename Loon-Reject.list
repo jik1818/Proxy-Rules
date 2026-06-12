@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,mdap.alipay.com,REJECT
 DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
 DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
 DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
+DOMAIN-SUFFIX,tdum.alibaba.com,REJECT
+DOMAIN-SUFFIX,arms-retcode.aliyuncs.com,REJECT
 
 
 # Google 微软 广告与跟踪拦截
