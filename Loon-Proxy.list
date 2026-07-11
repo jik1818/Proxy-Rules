@@ -1,3 +1,9 @@
+# 天堂电影
+DOMAIN-SUFFIX,dyttzyw.com,PROXY
+DOMAIN-SUFFIX,dyttzy.tv,PROXY
+DOMAIN-SUFFIX,dyttimage.com,PROXY
+DOMAIN-SUFFIX,dytt-play.com,PROXY
+
 # cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 
