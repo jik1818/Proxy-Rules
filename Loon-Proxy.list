@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,dyttzy.tv,PROXY
 DOMAIN-SUFFIX,dyttimage.com,PROXY
 DOMAIN-SUFFIX,dytt-play.com,PROXY
 DOMAIN-SUFFIX,dytt-kan.com,PROXY
+DOMAIN-SUFFIX,dytt-cinema.com,PROXY
 
 # cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
