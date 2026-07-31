@@ -63,6 +63,7 @@ DOMAIN-KEYWORD,nfsc,PROXY
 
 # 自定义代理
 DOMAIN-SUFFIX,nsloon.com,PROXY
+DOMAIN-SUFFIX,nsloon.app,PROXY
 DOMAIN-SUFFIX,kelee.one,PROXY
 DOMAIN-SUFFIX,whatshub.top,PROXY
 DOMAIN-SUFFIX,quantumult.app,PROXY
