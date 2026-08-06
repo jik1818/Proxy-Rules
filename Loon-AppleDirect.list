@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,captive.apple.com,DIRECT
 DOMAIN-SUFFIX,digicert.cn,DIRECT
 DOMAIN-SUFFIX,time.apple.com,DIRECT
 DOMAIN-SUFFIX,push.apple.com,DIRECT
+DOMAIN-SUFFIX,bag.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,invalid,DIRECT
 
 # Apple 金山 阿里 昆仑云 验证 直连
