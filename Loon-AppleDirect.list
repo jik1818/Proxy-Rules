@@ -1,5 +1,6 @@
 # Apple 直连
 DOMAIN-SUFFIX,captive.apple.com,DIRECT
+DOMAIN-SUFFIX,captive.g.aaplimg.com,DIRECT
 DOMAIN-SUFFIX,digicert.cn,DIRECT
 DOMAIN-SUFFIX,time.apple.com,DIRECT
 DOMAIN-SUFFIX,push.apple.com,DIRECT
