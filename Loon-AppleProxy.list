@@ -30,20 +30,6 @@ DOMAIN-SUFFIX,device-provisioning.googleapis.com,PROXY
 # 識別 Gmail 身份並走代理
 USER-AGENT,Google*Gmail*,PROXY
 
-# Apple 代理
-DOMAIN-SUFFIX,apple.com,PROXY
-DOMAIN-SUFFIX,itunes.com,PROXY
-DOMAIN-SUFFIX,icloud.com,PROXY
-DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
-DOMAIN-SUFFIX,apple-mapkit.com,PROXY
-DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,mzstatic.com,PROXY
-DOMAIN-SUFFIX,aaplimg.com,PROXY
-DOMAIN-SUFFIX,apple-dns.net,PROXY
-DOMAIN-SUFFIX,apple.cn,PROXY
-
-
 
 
 
