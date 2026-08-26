@@ -30,9 +30,6 @@ DOMAIN-SUFFIX,device-provisioning.googleapis.com,PROXY
 # 識別 Gmail 身份並走代理
 USER-AGENT,Google*Gmail*,PROXY
 
-# Apple 代理
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
-DOMAIN-SUFFIX,setup.icloud.com,PROXY
 
 
 
