@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,invalid,DIRECT
 DOMAIN-SUFFIX,bag.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,amp-api-edge.apps.apple.com,DIRECT
 DOMAIN-SUFFIX,gateway.icloud.com,DIRECT
+DOMAIN-SUFFIX,mzstatic.com,DIRECT
 
 # Apple 金山 阿里 昆仑云 验证 直连
 DOMAIN-KEYWORD,cn-ssl,DIRECT
