@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,adservice.google.com,REJECT-DICT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT-DICT
 DOMAIN-SUFFIX,google-analytics.com,REJECT-DICT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DICT
-DOMAIN-SUFFIX,stun.l.google.com,REJECT-DICT
+DOMAIN-SUFFIX,l.google.com,REJECT-DICT
 
 # 已知恶意拦截
 DOMAIN-SUFFIX,wiki,REJECT
