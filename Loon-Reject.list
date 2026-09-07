@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
 DOMAIN-SUFFIX,tdum.alibaba.com,REJECT
 DOMAIN-SUFFIX,arms-retcode.aliyuncs.com,REJECT
 
-
 # Google 微软 广告与跟踪拦截
 DOMAIN-KEYWORD,doubleclick,REJECT-DICT
 DOMAIN-KEYWORD,pixel-tracker-prod,REJECT-DICT
@@ -50,17 +49,6 @@ DOMAIN-SUFFIX,bvmlt.top,REJECT
 DOMAIN-SUFFIX,greylabeldelivery.com,REJECT
 DOMAIN-SUFFIX,pa-cd.com,REJECT
 DOMAIN-SUFFIX,sealine.youku.com,REJECT
-
-
-
-
-
-
-
-
-
-
-
 
 
 
