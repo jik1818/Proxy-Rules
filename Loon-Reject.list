@@ -1,7 +1,52 @@
 #====拦截规则====
 
-# 阿里云证书 拦截
-DOMAIN-SUFFIX,digicert.cn,REJECT
+# 全球主流 CA 机构 OCSP 明文泄露防追踪规则（本地 REJECT 触发 Soft Fail）
+# --------------------------------------------------
+
+# Google Trust Services
+DOMAIN-SUFFIX, ocsp.pki.goog, REJECT
+
+# DigiCert / Symantec / GeoTrust / Thawte / RapidSSL
+DOMAIN-SUFFIX, ocsp.digicert.com, REJECT
+DOMAIN-SUFFIX, ocsp.digicert.cn, REJECT
+DOMAIN-SUFFIX, ocsp.geotrust.com, REJECT
+DOMAIN-SUFFIX, ocsp.thawte.com, REJECT
+DOMAIN-SUFFIX, ocsp.rapidssl.com, REJECT
+
+# Sectigo / Comodo / UserTrust
+DOMAIN-SUFFIX, ocsp.sectigo.com, REJECT
+DOMAIN-SUFFIX, ocsp.comodoca.com, REJECT
+DOMAIN-SUFFIX, ocsp.usertrust.com, REJECT
+
+# Let's Encrypt
+DOMAIN-SUFFIX, lencr.org, REJECT
+
+# Apple 官方证书服务
+DOMAIN-SUFFIX, ocsp.apple.com, REJECT
+DOMAIN-SUFFIX, ocsp2.apple.com, REJECT
+
+# GlobalSign
+DOMAIN-SUFFIX, ocsp.globalsign.com, REJECT
+DOMAIN-SUFFIX, ocsp2.globalsign.com, REJECT
+
+# GoDaddy / Starfield
+DOMAIN-SUFFIX, ocsp.godaddy.com, REJECT
+DOMAIN-SUFFIX, ocsp.starfieldtech.com, REJECT
+
+# Amazon Trust Services
+DOMAIN-SUFFIX, ocsp.rootca1.amazontrust.com, REJECT
+DOMAIN-SUFFIX, ocsp.sca1b.amazontrust.com, REJECT
+
+# Entrust
+DOMAIN-SUFFIX, ocsp.entrust.net, REJECT
+
+# Buypass
+DOMAIN-SUFFIX, ocsp.buypass.com, REJECT
+
+# ZeroSSL / PKI
+DOMAIN-SUFFIX, ocsp.zerossl.com, REJECT
+
+
 
 # 泰隆银行 拦截
 DOMAIN-SUFFIX,jpush.cn,REJECT
