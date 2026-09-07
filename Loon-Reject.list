@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,digitalcertvalidation.com,REJECT
 
 # 泰隆银行 拦截
 DOMAIN-SUFFIX,jpush.cn,REJECT
-DOMAIN-SUFFIX,config-junion.jpush.cn,REJECT
-DOMAIN-KEYWORD,jpush.cn,REJECT
 
 # 光大银行 拦截
 DOMAIN-SUFFIX,analytics.95516.com,REJECT
