@@ -19,10 +19,8 @@ DOMAIN-SUFFIX,ocsp.usertrust.com,REJECT
 DOMAIN-SUFFIX,ocsp.trust-provider.com,REJECT
 
 # Let's Encrypt / IdenTrust
-DOMAIN-SUFFIX,ocsp.lencr.org,REJECT
-DOMAIN-SUFFIX,o.lencr.org,REJECT
-DOMAIN-SUFFIX,crl.lencr.org,REJECT
 DOMAIN-SUFFIX,ocsp.identrust.com,REJECT
+DOMAIN-SUFFIX,lencr.org,REJECT
 
 # Apple
 DOMAIN-SUFFIX,ocsp.apple.com,REJECT
