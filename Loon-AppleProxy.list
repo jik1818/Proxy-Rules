@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,smoot.apple.com,PROXY
 DOMAIN-SUFFIX,metrics.icloud.com,PROXY
 DOMAIN-SUFFIX,experiments.apple.com,PROXY
+DOMAIN-SUFFIX,ocsp2.apple.com,PROXY
 
 # 微软搜索建议
 DOMAIN-SUFFIX,c.bing.com,PROXY
