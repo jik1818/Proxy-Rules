@@ -1,4 +1,4 @@
-#  Apple核心服务
+# Apple核心服务
 DOMAIN-KEYWORD,smoot.apple.com,PROXY
 DOMAIN-SUFFIX,metrics.icloud.com,PROXY
 DOMAIN-SUFFIX,experiments.apple.com,PROXY
