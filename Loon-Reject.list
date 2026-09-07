@@ -1,5 +1,8 @@
 #====拦截规则====
 
+# 阿里云证书 拦截
+DOMAIN-SUFFIX,digicert.cn,REJECT
+
 # 泰隆银行 拦截
 DOMAIN-SUFFIX,jpush.cn,REJECT
 DOMAIN-SUFFIX,config-junion.jpush.cn,REJECT
