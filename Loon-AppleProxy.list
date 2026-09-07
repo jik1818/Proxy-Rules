@@ -1,97 +1,11 @@
-# Apple 遥测-诊断 代理
-DOMAIN-SUFFIX,weather-analytics-events.apple.com,PROXY
-DOMAIN-SUFFIX,afs.ampaeservices.com,PROXY
-DOMAIN-SUFFIX,experiments.apple.com,PROXY
-DOMAIN-SUFFIX,notes-analytics-events.apple.com,PROXY
-DOMAIN-SUFFIX,partiality.itunes.apple.com,PROXY
-DOMAIN-SUFFIX,metrics.icloud.com,PROXY
-
+#  Apple核心服务
 DOMAIN-KEYWORD,smoot.apple.com,PROXY
-DOMAIN-SUFFIX,fbs.smoot.apple.com,PROXY
+DOMAIN-SUFFIX,metrics.icloud.com,PROXY
+DOMAIN-SUFFIX,experiments.apple.com,PROXY
 
-DOMAIN-KEYWORD,iadsdk.apple.com,PROXY
-DOMAIN-SUFFIX,iadsdk.apple.com,PROXY
-DOMAIN-SUFFIX,ca.iadsdk.apple.com,PROXY
-DOMAIN-SUFFIX,tr.iadsdk.apple.com,PROXY
-DOMAIN-SUFFIX,cf.iadsdk.apple.com,PROXY
-
-# 微软 Microsoft Copilot 遥测-诊断 代理
-DOMAIN-SUFFIX,mobile.events.data.microsoft.com,PROXY
+# 微软搜索建议
 DOMAIN-SUFFIX,c.bing.com,PROXY
-DOMAIN-SUFFIX,in.appcenter.ms,PROXY
 
-# Google 遥测-诊断 代理
-DOMAIN-SUFFIX,clienttracing-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,growth-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,ogads-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,clienttracing-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,device-provisioning.googleapis.com,PROXY
-# 識別 Gmail 身份並走代理
+# Google 邮件与系统必要组件
 USER-AGENT,Google*Gmail*,PROXY
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+DOMAIN-SUFFIX,device-provisioning.googleapis.com,PROXY
