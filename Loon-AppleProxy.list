@@ -1,13 +1,14 @@
-# Apple核心服务
+# Apple 遥测 诊断 证书
 DOMAIN-KEYWORD,smoot.apple.com,PROXY
 DOMAIN-SUFFIX,metrics.icloud.com,PROXY
 DOMAIN-SUFFIX,experiments.apple.com,PROXY
 DOMAIN-SUFFIX,ocsp2.apple.com,PROXY
 
-# 微软搜索建议
+# 微软 遥测 诊断
 DOMAIN-SUFFIX,c.bing.com,PROXY
+DOMAIN,mobile.events.data.microsoft.com,PROXY
 
-# Google 邮件与系统必要组件
+# Google 遥测 诊断
 USER-AGENT,Google*Gmail*,PROXY
 DOMAIN-SUFFIX,device-provisioning.googleapis.com,PROXY
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com,PROXY
