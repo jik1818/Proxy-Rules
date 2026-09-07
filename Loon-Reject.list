@@ -1,51 +1,11 @@
 #====拦截规则====
 # 全球主流 CA 机构 OCSP 明文泄露防追踪规则（本地 REJECT 触发 Soft Fail）
-
-# Google Trust Services
-DOMAIN-SUFFIX,ocsp.pki.goog,REJECT
-
-# DigiCert / Symantec / GeoTrust / Thawte / RapidSSL / SymCD
-DOMAIN-SUFFIX,ocsp.digicert.com,REJECT
-DOMAIN-SUFFIX,ocsp.digicert.cn,REJECT
-DOMAIN-SUFFIX,ocsp.geotrust.com,REJECT
-DOMAIN-SUFFIX,ocsp.thawte.com,REJECT
-DOMAIN-SUFFIX,ocsp.rapidssl.com,REJECT
-DOMAIN-SUFFIX,ocsp.symcd.com,REJECT
-
-# Sectigo / Comodo / UserTrust / Trust-Provider
-DOMAIN-SUFFIX,ocsp.sectigo.com,REJECT
-DOMAIN-SUFFIX,ocsp.comodoca.com,REJECT
-DOMAIN-SUFFIX,ocsp.usertrust.com,REJECT
-DOMAIN-SUFFIX,ocsp.trust-provider.com,REJECT
-
-# Let's Encrypt / IdenTrust
-DOMAIN-SUFFIX,ocsp.identrust.com,REJECT
+DOMAIN-KEYWORD,ocsp.,REJECT
+DOMAIN-KEYWORD,ocsp2.,REJECT
+DOMAIN-KEYWORD,ocsp3.,REJECT
+DOMAIN-KEYWORD,ocsp4.,REJECT
 DOMAIN-SUFFIX,lencr.org,REJECT
-
-# Apple
-DOMAIN-SUFFIX,ocsp.apple.com,REJECT
-DOMAIN-SUFFIX,ocsp2.apple.com,REJECT
-
-# GlobalSign
-DOMAIN-SUFFIX,ocsp.globalsign.com,REJECT
-DOMAIN-SUFFIX,ocsp2.globalsign.com,REJECT
-
-# Amazon Trust Services
-DOMAIN-SUFFIX,ocsp.rootca1.amazontrust.com,REJECT
-DOMAIN-SUFFIX,ocsp.sca1b.amazontrust.com,REJECT
-
-# GoDaddy / Starfield
-DOMAIN-SUFFIX,ocsp.godaddy.com,REJECT
-DOMAIN-SUFFIX,ocsp.starfieldtech.com,REJECT
-
-# SSL.com / QuoVadis / DigitalCertValidation / Entrust / Buypass / ZeroSSL
-DOMAIN-SUFFIX,ocsp.ssl.com,REJECT
-DOMAIN-SUFFIX,ocsp.quovadisglobal.com,REJECT
 DOMAIN-SUFFIX,digitalcertvalidation.com,REJECT
-DOMAIN-SUFFIX,ocsp.entrust.net,REJECT
-DOMAIN-SUFFIX,ocsp.buypass.com,REJECT
-DOMAIN-SUFFIX,ocsp.zerossl.com,REJECT
-
 
 # 泰隆银行 拦截
 DOMAIN-SUFFIX,jpush.cn,REJECT
