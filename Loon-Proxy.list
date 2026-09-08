@@ -1,28 +1,16 @@
 # 天堂电影
-DOMAIN-SUFFIX,dyttzyw.com,PROXY
-DOMAIN-SUFFIX,dyttzy.tv,PROXY
+DOMAIN-SUFFIX,dyttzyw.tv,PROXY
 DOMAIN-SUFFIX,dyttimage.com,PROXY
-DOMAIN-SUFFIX,dytt-play.com,PROXY
-DOMAIN-SUFFIX,dytt-kan.com,PROXY
-DOMAIN-SUFFIX,dytt-cinema.com,PROXY
-DOMAIN-SUFFIX,dytt-movies.com,PROXY
-DOMAIN-SUFFIX,dytt-tupian.com,PROXY
-DOMAIN-SUFFIX,dytt-tvb.com,PROXY
+DOMAIN-KEYWORD,dytt-,PROXY
 
-# cloudflare 代理
+# Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 
-# Grok Ai
+# Grok AI
+DOMAIN-SUFFIX,grok.com,PROXY
 DOMAIN-SUFFIX,grokusercontent.com,PROXY
 DOMAIN-SUFFIX,chronosphere.io,PROXY
 DOMAIN-SUFFIX,eu.org,PROXY
-
-# 新加坡联合早报
-DOMAIN-SUFFIX,zaobao.com.sg,PROXY
-DOMAIN-SUFFIX,shareinvestor.com,PROXY
-DOMAIN-SUFFIX,sphdigital.com.sg,PROXY
-DOMAIN-SUFFIX,sphlabs.com,PROXY
-DOMAIN-SUFFIX,sph.com.sg,PROXY
 
 # Box网盘代理
 DOMAIN-SUFFIX,box.com,PROXY
@@ -37,8 +25,6 @@ DOMAIN-SUFFIX,nfscofficial.com,PROXY
 DOMAIN-SUFFIX,nfscofficial.org,PROXY
 DOMAIN-SUFFIX,nfscofficial.net,PROXY
 DOMAIN-SUFFIX,gnews.org,PROXY
-DOMAIN-SUFFIX,gtv.org,PROXY
-DOMAIN-SUFFIX,voiceofgnews.com,PROXY
 DOMAIN-SUFFIX,gettr.com,PROXY
 DOMAIN-SUFFIX,gtr.ai,PROXY
 DOMAIN-SUFFIX,hcoin.com,PROXY
@@ -53,23 +39,22 @@ DOMAIN-KEYWORD,himalaya,PROXY
 DOMAIN-KEYWORD,gnews,PROXY
 DOMAIN-KEYWORD,nfsc,PROXY
 
-# 自定义代理
+# 自定义代理与工具
 DOMAIN-SUFFIX,nsloon.com,PROXY
 DOMAIN-SUFFIX,nsloon.app,PROXY
 DOMAIN-SUFFIX,kelee.one,PROXY
-DOMAIN-SUFFIX,whatshub.top,PROXY
 DOMAIN-SUFFIX,quantumult.app,PROXY
-DOMAIN-KEYWORD,adguard,PROXY
-DOMAIN-KEYWORD,adtidy,PROXY
-DOMAIN-SUFFIX,cdn.jsdelivr.net,PROXY
 DOMAIN-KEYWORD,yahoo,PROXY
 DOMAIN-KEYWORD,google,PROXY
 DOMAIN-SUFFIX,ipify.org,PROXY
+DOMAIN-SUFFIX,adguard.com,PROXY
+DOMAIN-SUFFIX,adguard.org,PROXY
+DOMAIN-SUFFIX,adguard-dns.io,PROXY
+DOMAIN-SUFFIX,adtidy.org,PROXY
+DOMAIN-SUFFIX,cdn.jsdelivr.net,PROXY
 DOMAIN-SUFFIX,emailimagecdnuyi.com,PROXY
 DOMAIN-SUFFIX,brave.com,PROXY
 DOMAIN-SUFFIX,nplayer.com,PROXY
-DOMAIN-SUFFIX,oath.com,PROXY
-DOMAIN-SUFFIX,whatshub.top,PROXY
 DOMAIN-SUFFIX,now.cc,PROXY
 DOMAIN-SUFFIX,prismic.io,PROXY
 DOMAIN-SUFFIX,cloudns.net,PROXY
@@ -81,7 +66,6 @@ DOMAIN-SUFFIX,chargebee.com,PROXY
 DOMAIN-SUFFIX,aolcdn.com,PROXY
 DOMAIN-SUFFIX,revenuecat.com,PROXY
 DOMAIN-SUFFIX,vuejs.org,PROXY
-DOMAIN-SUFFIX,grok.com,PROXY
 DOMAIN-SUFFIX,assetsconfigcdn.org,PROXY
 DOMAIN-SUFFIX,dlvr.it,PROXY
 DOMAIN-SUFFIX,trakt.tv,PROXY
@@ -101,7 +85,7 @@ DOMAIN-SUFFIX,voa-video-hls-ns.akamaized.net,PROXY
 DOMAIN-SUFFIX,disqus.com,PROXY
 DOMAIN-SUFFIX,disquscdn.com,PROXY
 DOMAIN-SUFFIX,bbc.com,PROXY
-DOMAIN-SUFFIX,co.uk,PROXY
+DOMAIN-SUFFIX,bbc.co.uk,PROXY
 DOMAIN-SUFFIX,gov.tw,PROXY
 DOMAIN-SUFFIX,wikipedia.org,PROXY
 DOMAIN-SUFFIX,wikimedia.org,PROXY
@@ -119,13 +103,3 @@ DOMAIN-SUFFIX,arcpublishing.com,PROXY
 DOMAIN-SUFFIX,clash.md,PROXY
 DOMAIN-SUFFIX,gitlab.com,PROXY
 DOMAIN-SUFFIX,paypalobjects.com,PROXY
-
-
-
-
-
-
-
-
-
-
