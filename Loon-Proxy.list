@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,amp-account.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,uts-api.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,pds-init.ess.apple.com,PROXY
 DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
+DOMAIN-SUFFIX,gsas.apple.com,PROXY
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
