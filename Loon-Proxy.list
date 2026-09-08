@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,account.apple.com,PROXY
 DOMAIN-SUFFIX,gsa-gpk.apple.com,PROXY
 DOMAIN-SUFFIX,gdmf-ados.apple.com,PROXY
 DOMAIN-SUFFIX,ts.itunes.apple.com,PROXY
+DOMAIN-SUFFIX,mask-api.icloud.com,PROXY
+DOMAIN-SUFFIX,ec.pcms.apple.com,PROXY
+DOMAIN-SUFFIX,afs.ampaeservices.com,PROXY
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
