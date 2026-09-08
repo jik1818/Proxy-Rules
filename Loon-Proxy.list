@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,dytt-,PROXY
 
 # Apple 代理
 DOMAIN-SUFFIX,wps.apple.com.com,PROXY
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
 
 # Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
