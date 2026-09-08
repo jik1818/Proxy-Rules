@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,phimgood.com,PROXY
 DOMAIN-KEYWORD,dytt-,PROXY
 
 # Apple 代理
+DOMAIN-SUFFIX,init.push.apple.com,PROXY
 DOMAIN-SUFFIX,gateway.icloud.com,PROXY
 DOMAIN-SUFFIX,wps.apple.com,PROXY
 DOMAIN-SUFFIX,gdmf.apple.com,PROXY
