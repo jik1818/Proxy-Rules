@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,dytt-,PROXY
 
 # Apple 代理
 DOMAIN-SUFFIX,wps.apple.com,PROXY
+DOMAIN-SUFFIX,dscapi6.akamai.net,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
 
