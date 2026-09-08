@@ -8,12 +8,16 @@ DOMAIN-KEYWORD,dytt-,PROXY
 # Apple 代理
 DOMAIN-SUFFIX,init.push.apple.com,PROXY
 DOMAIN-SUFFIX,gateway.icloud.com,PROXY
+DOMAIN-SUFFIX,init.api.smoot.apple.cn,PROXY
 DOMAIN-SUFFIX,wps.apple.com,PROXY
 DOMAIN-SUFFIX,gdmf.apple.com,PROXY
 DOMAIN-SUFFIX,dscapi6.akamai.net,PROXY
 DOMAIN-SUFFIX,gsa.apple.com,PROXY
 DOMAIN-SUFFIX,setup.icloud.com,PROXY
 DOMAIN-SUFFIX,amp-account.itunes.apple.com,PROXY
+DOMAIN-SUFFIX,uts-api.itunes.apple.com,PROXY
+DOMAIN-SUFFIX,pds-init.ess.apple.com,PROXY
+DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
