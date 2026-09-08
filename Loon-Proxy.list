@@ -12,9 +12,11 @@ DOMAIN-SUFFIX,gdmf.apple.com,PROXY
 DOMAIN-SUFFIX,dscapi6.akamai.net,PROXY
 DOMAIN-SUFFIX,gsa.apple.com,PROXY
 DOMAIN-SUFFIX,setup.icloud.com,PROXY
+DOMAIN-SUFFIX,amp-account.itunes.apple.com,PROXY
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
+DOMAIN-KEYWORD,-acsegateway.icloud.com,PROXY
 
 # Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
