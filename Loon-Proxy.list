@@ -64,6 +64,7 @@ DOMAIN-KEYWORD,adtidy,PROXY
 DOMAIN-SUFFIX,cdn.jsdelivr.net,PROXY
 DOMAIN-KEYWORD,yahoo,PROXY
 DOMAIN-KEYWORD,google,PROXY
+DOMAIN-SUFFIX,ipify.org,PROXY
 DOMAIN-SUFFIX,emailimagecdnuyi.com,PROXY
 DOMAIN-SUFFIX,brave.com,PROXY
 DOMAIN-SUFFIX,nplayer.com,PROXY
@@ -118,7 +119,7 @@ DOMAIN-SUFFIX,arcpublishing.com,PROXY
 DOMAIN-SUFFIX,clash.md,PROXY
 DOMAIN-SUFFIX,gitlab.com,PROXY
 DOMAIN-SUFFIX,paypalobjects.com,PROXY
-DOMAIN-SUFFIX,ipify.org,PROXY
+
 
 
 
