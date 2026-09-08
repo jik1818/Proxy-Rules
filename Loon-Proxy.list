@@ -10,7 +10,7 @@ DOMAIN-KEYWORD,dytt-,PROXY
 DOMAIN-SUFFIX,init.push.apple.com,PROXY
 DOMAIN-SUFFIX,gateway.icloud.com,PROXY
 DOMAIN-SUFFIX,cdn-apple.com,PROXY
-DOMAIN-SUFFIX,init.api.smoot.apple.cn,PROXY
+DOMAIN-SUFFIX,api.smoot.apple.cn,PROXY
 DOMAIN-SUFFIX,wps.apple.com,PROXY
 DOMAIN-SUFFIX,gdmf.apple.com,PROXY
 DOMAIN-SUFFIX,dscapi6.akamai.net,PROXY
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,statici.icloud.com,PROXY
 DOMAIN-SUFFIX,humb.apple.com,PROXY
 DOMAIN-SUFFIX,auth.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,account.apple.com,PROXY
+DOMAIN-SUFFIX,gsa-gpk.apple.com,PROXY
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
