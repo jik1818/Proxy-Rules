@@ -23,6 +23,9 @@ DOMAIN-SUFFIX,gsas.apple.com,PROXY
 DOMAIN-SUFFIX,lcdn-locator.apple.com,PROXY
 DOMAIN-SUFFIX,ph2.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,userpub.itunes.apple.com,PROXY
+DOMAIN-SUFFIX,statici.icloud.com,PROXY
+DOMAIN-SUFFIX,humb.apple.com,PROXY
+DOMAIN-SUFFIX,auth.itunes.apple.com,PROXY
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
