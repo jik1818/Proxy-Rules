@@ -7,6 +7,21 @@ DOMAIN-KEYWORD,dytt-,PROXY
 
 # Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
+DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
+DOMAIN-SUFFIX,cloudflareclient.com,PROXY
+DOMAIN-SUFFIX,cloudflarestream.com,PROXY
+DOMAIN-SUFFIX,onetrust.com,PROXY
+DOMAIN-SUFFIX,todaitlo.com,PROXY
+DOMAIN-SUFFIX,pages.dev,PROXY
+DOMAIN-SUFFIX,cloudflare.dev,PROXY
+DOMAIN-SUFFIX,appcenter.ms,PROXY
+DOMAIN-SUFFIX,braintree-api.com,PROXY
+DOMAIN-SUFFIX,paypal.com,PROXY
+DOMAIN-SUFFIX,paypalobjects.com,PROXY
+DOMAIN-SUFFIX,flarestatus.com,PROXY
+DOMAIN-SUFFIX,mapbox.com,PROXY
+DOMAIN-SUFFIX,imagedelivery.net,PROXY
+DOMAIN-SUFFIX,cloudflareregistrar.com,PROXY
 
 # Grok AI
 DOMAIN-SUFFIX,grok.com,PROXY
@@ -20,26 +35,6 @@ DOMAIN-SUFFIX,box.net,PROXY
 DOMAIN-SUFFIX,boxcdn.net,PROXY
 DOMAIN-SUFFIX,segment-box.com,PROXY
 DOMAIN-SUFFIX,boxcloud.com,PROXY
-
-# --- NFSC / G-Series / Himalaya 
-DOMAIN-SUFFIX,nfsc.press,PROXY
-DOMAIN-SUFFIX,nfscofficial.com,PROXY
-DOMAIN-SUFFIX,nfscofficial.org,PROXY
-DOMAIN-SUFFIX,nfscofficial.net,PROXY
-DOMAIN-SUFFIX,gnews.org,PROXY
-DOMAIN-SUFFIX,gettr.com,PROXY
-DOMAIN-SUFFIX,gtr.ai,PROXY
-DOMAIN-SUFFIX,hcoin.com,PROXY
-DOMAIN-SUFFIX,hpay.com,PROXY
-DOMAIN-SUFFIX,himalayas.org,PROXY
-DOMAIN-SUFFIX,himalaya.exchange,PROXY
-DOMAIN-SUFFIX,himalaya-exchange.com,PROXY
-DOMAIN-SUFFIX,rolfoundation.org,PROXY
-DOMAIN-SUFFIX,rolsociety.org,PROXY
-DOMAIN-SUFFIX,whistleblowersmovement.com,PROXY
-DOMAIN-KEYWORD,himalaya,PROXY
-DOMAIN-KEYWORD,gnews,PROXY
-DOMAIN-KEYWORD,nfsc,PROXY
 
 # 自定义代理与工具
 DOMAIN-SUFFIX,nsloon.com,PROXY
