@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,jimxtc.com,PROXY
 DOMAIN-SUFFIX,phimgood.com,PROXY
 DOMAIN-KEYWORD,dytt-,PROXY
 
+# Apple 代理
+DOMAIN-SUFFIX,wps.apple.com.com,PROXY
+
 # Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
