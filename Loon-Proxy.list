@@ -1,6 +1,7 @@
 # 天堂电影
 DOMAIN-SUFFIX,dyttzyw.tv,PROXY
 DOMAIN-SUFFIX,dyttimage.com,PROXY
+DOMAIN-SUFFIX,jimxtc.com,PROXY
 DOMAIN-KEYWORD,dytt-,PROXY
 
 # Cloudflare 代理
