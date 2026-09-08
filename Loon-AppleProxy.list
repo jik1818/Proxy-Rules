@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,experiments.apple.com,PROXY
 # Apple 证书
 DOMAIN-SUFFIX,ocsp2.apple.com,PROXY
 DOMAIN-SUFFIX,ocsp.usertrust.com,PROXY
+DOMAIN-SUFFIX,ocsp.digicert.com,PROXY
 
 # 微软 遥测 诊断
 DOMAIN-SUFFIX,c.bing.com,PROXY
