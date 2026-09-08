@@ -7,6 +7,11 @@ DOMAIN-SUFFIX,phimgood.com,PROXY
 DOMAIN-KEYWORD,dytt-,PROXY
 
 # Apple 代理
+DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
+DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
+DOMAIN-KEYWORD,-quota.icloud.com,PROXY
+DOMAIN-KEYWORD,-acsegateway.icloud.com,PROXY
+DOMAIN-KEYWORD,-escrowproxy.icloud.com,PROXY
 DOMAIN-SUFFIX,init.push.apple.com,PROXY
 DOMAIN-SUFFIX,gateway.icloud.com,PROXY
 DOMAIN-SUFFIX,cdn-apple.com,PROXY
@@ -34,11 +39,7 @@ DOMAIN-SUFFIX,ts.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,mask-api.icloud.com,PROXY
 DOMAIN-SUFFIX,ec.pcms.apple.com,PROXY
 DOMAIN-SUFFIX,afs.ampaeservices.com,PROXY
-DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
-DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
-DOMAIN-KEYWORD,-quota.icloud.com,PROXY
-DOMAIN-KEYWORD,-acsegateway.icloud.com,PROXY
-DOMAIN-KEYWORD,-escrowproxy.icloud.com,PROXY
+
 
 # Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
