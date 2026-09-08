@@ -20,10 +20,12 @@ DOMAIN-SUFFIX,uts-api.itunes.apple.com,PROXY
 DOMAIN-SUFFIX,pds-init.ess.apple.com,PROXY
 DOMAIN-SUFFIX,pds.ess.apple.com,PROXY
 DOMAIN-SUFFIX,gsas.apple.com,PROXY
+DOMAIN-SUFFIX,lcdn-locator.apple.com,PROXY
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
 DOMAIN-KEYWORD,-acsegateway.icloud.com,PROXY
+DOMAIN-KEYWORD,-escrowproxy.icloud.com,PROXY
 
 # Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
