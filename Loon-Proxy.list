@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,dytt-
 
 # Apple 代理（PROXY）
 DOMAIN-KEYWORD,sse-ws-p
+DOMAIN-KEYWORD,-smp-device.apple.com
 DOMAIN-KEYWORD,-fmf.icloud.com
 DOMAIN-KEYWORD,fmipmobile.icloud.com
 DOMAIN-KEYWORD,fmfmobile.icloud.com
