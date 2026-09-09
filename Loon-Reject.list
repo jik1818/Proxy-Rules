@@ -1,5 +1,8 @@
 #====拦截规则 (Shadowrocket & Loon 共用)====（REJECT）
 
+# 阿里云证书 明文泄露 证书
+DOMAIN-SUFFIX,digicert.cn
+
 # 泰隆银行 拦截（REJECT）
 DOMAIN-SUFFIX,jpush.cn
 
