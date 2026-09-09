@@ -1,43 +1,19 @@
-# Apple 直连
-DOMAIN-SUFFIX,captive.apple.com,DIRECT
-DOMAIN-SUFFIX,captive.g.aaplimg.com,DIRECT
-DOMAIN-SUFFIX,time.apple.com,DIRECT
-DOMAIN-SUFFIX,invalid,DIRECT
+# Apple 直连 （DIRECT）
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,captive.g.aaplimg.com
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,invalid
 
-# Apple 金山 阿里 昆仑云 验证 直连
-DOMAIN-KEYWORD,cn-ssl,DIRECT
-DOMAIN-KEYWORD,cn2-ssl,DIRECT
-DOMAIN-KEYWORD,loc-cn,DIRECT
-DOMAIN-KEYWORD,cn-ssl.ls.apple.com,DIRECT
-DOMAIN-KEYWORD,cn2-ssl.ls.apple.com,DIRECT
-DOMAIN-KEYWORD,cn.apple.com,DIRECT
-
-DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gspe11-2-cn-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gspe12-cn-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gspe85-cn-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gsi39-cn-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gsi4-cn2-ssl.ls.apple.com,DIRECT
-DOMAIN-SUFFIX,gs-loc-cn.apple.com,DIRECT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Apple 节点/验证直连 (大陆 CDN 与定位) （DIRECT）
+DOMAIN-KEYWORD,cn-ssl
+DOMAIN-KEYWORD,cn2-ssl
+DOMAIN-KEYWORD,loc-cn
+DOMAIN-KEYWORD,cn.apple.com
+DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,gspe11-2-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,gspe12-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,gspe85-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,gsi39-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,gsi4-cn2-ssl.ls.apple.com
