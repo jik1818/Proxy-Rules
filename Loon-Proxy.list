@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,dytt-,PROXY
 
 # Apple 代理
 DOMAIN-KEYWORD,-fmf.icloud.com,PROXY
+DOMAIN-KEYWORD,-fmipmobile.icloud.com,PROXY
 DOMAIN-KEYWORD,-ssl.ls.apple.com,PROXY
 DOMAIN-KEYWORD,-quota.icloud.com,PROXY
 DOMAIN-KEYWORD,-acsegateway.icloud.com,PROXY
@@ -42,6 +43,7 @@ DOMAIN-SUFFIX,afs.ampaeservices.com,PROXY
 DOMAIN-SUFFIX,identity.ess.apple.com,PROXY
 DOMAIN-SUFFIX,profile.ess.apple.com,PROXY
 DOMAIN-SUFFIX,static.ess.apple.com,PROXY
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,PROXY
 
 # Cloudflare 代理
 DOMAIN-SUFFIX,cloudflare.com,PROXY
