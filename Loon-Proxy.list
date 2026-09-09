@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,-ssl.ls.apple.com
 DOMAIN-KEYWORD,-quota.icloud.com
 DOMAIN-KEYWORD,-acsegateway.icloud.com
 DOMAIN-KEYWORD,-escrowproxy.icloud.com
+DOMAIN-KEYWORD,-buy.itunes.apple.com
 DOMAIN-SUFFIX,init.push.apple.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,cdn-apple.com
