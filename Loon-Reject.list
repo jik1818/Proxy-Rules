@@ -1,56 +1,52 @@
-#====拦截规则====
+#====拦截规则 (Shadowrocket & Loon 共用)====（REJECT）
 # 全球主流 CA 机构 OCSP 明文泄露防追踪规则（本地 REJECT 触发 Soft Fail）
-DOMAIN-KEYWORD,ocsp.,REJECT
-DOMAIN-KEYWORD,ocsp1.,REJECT
-DOMAIN-KEYWORD,ocsp2.,REJECT
-DOMAIN-KEYWORD,ocsp3.,REJECT
-DOMAIN-KEYWORD,ocsp4.,REJECT
-DOMAIN-KEYWORD,crl.,REJECT
-DOMAIN-SUFFIX,lencr.org,REJECT
-DOMAIN-SUFFIX,digitalcertvalidation.com,REJECT
+DOMAIN-KEYWORD,ocsp.
+DOMAIN-KEYWORD,ocsp1.
+DOMAIN-KEYWORD,ocsp2.
+DOMAIN-KEYWORD,ocsp3.
+DOMAIN-KEYWORD,ocsp4.
+DOMAIN-KEYWORD,crl.
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,digitalcertvalidation.com
 
-# 泰隆银行 拦截
-DOMAIN-SUFFIX,jpush.cn,REJECT
+# 泰隆银行 拦截（REJECT）
+DOMAIN-SUFFIX,jpush.cn
 
-# 光大银行 拦截
-DOMAIN-SUFFIX,analytics.95516.com,REJECT
+# 光大银行 拦截（REJECT）
+DOMAIN-SUFFIX,analytics.95516.com
 
-# 阿里系 拦截
-DOMAIN-SUFFIX,cdn.ynuf.aliapp.org,REJECT
-DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
-DOMAIN-SUFFIX,umeng.com,REJECT
-DOMAIN-SUFFIX,mdap.alipay.com,REJECT
-DOMAIN-SUFFIX,sjarvis.taobao.com,REJECT
-DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
-DOMAIN-SUFFIX,atoken.m.taobao.com,REJECT
-DOMAIN-SUFFIX,tdum.alibaba.com,REJECT
-DOMAIN-SUFFIX,arms-retcode.aliyuncs.com,REJECT
+# 阿里系 拦截（REJECT）
+DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
+DOMAIN-SUFFIX,atoken.m.taobao.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,mdap.alipay.com
+DOMAIN-SUFFIX,sjarvis.taobao.com
+DOMAIN-SUFFIX,ossgw.alicdn.com
+DOMAIN-SUFFIX,tdum.alibaba.com
+DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
 
-# Google 微软 广告与跟踪拦截
-DOMAIN-KEYWORD,doubleclick,REJECT-DICT
-DOMAIN-KEYWORD,pixel-tracker-prod,REJECT-DICT
-DOMAIN-SUFFIX,adservice.google.com,REJECT-DICT
-DOMAIN-SUFFIX,googlesyndication.com,REJECT-DICT
-DOMAIN-SUFFIX,google-analytics.com,REJECT-DICT
-DOMAIN-SUFFIX,app-analytics-services.com,REJECT-DICT
-DOMAIN-SUFFIX,l.google.com,REJECT-DICT
+# Google 微软 广告与跟踪拦截（REJECT）
+DOMAIN-KEYWORD,doubleclick
+DOMAIN-KEYWORD,pixel-tracker-prod
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,l.google.com
 
-# 已知恶意拦截
-DOMAIN-SUFFIX,wiki,REJECT
-DOMAIN-SUFFIX,life,REJECT
-DOMAIN-SUFFIX,live,REJECT
-DOMAIN-SUFFIX,site,REJECT
-DOMAIN-SUFFIX,fmm.io,REJECT
-DOMAIN-SUFFIX,ipapi.co,REJECT
-DOMAIN-SUFFIX,ip.sb,REJECT
-DOMAIN-SUFFIX,v21c.com,REJECT
+# 已知恶意拦截（REJECT）
+# 提醒：wiki/life/live/site 已改用顶级域名比对语法，防误杀
+DOMAIN-SUFFIX,wiki
+DOMAIN-SUFFIX,life
+DOMAIN-SUFFIX,live
+DOMAIN-SUFFIX,site
+DOMAIN-SUFFIX,fmm.io
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,v21c.com
 
-# 第三方跟踪拦截
-DOMAIN-SUFFIX,bvmlt.top,REJECT
-DOMAIN-SUFFIX,greylabeldelivery.com,REJECT
-DOMAIN-SUFFIX,pa-cd.com,REJECT
-DOMAIN-SUFFIX,sealine.youku.com,REJECT
-
-
-
-
+# 第三方跟踪拦截（REJECT）
+DOMAIN-SUFFIX,bvmlt.top
+DOMAIN-SUFFIX,greylabeldelivery.com
+DOMAIN-SUFFIX,pa-cd.com
+DOMAIN-SUFFIX,sealine.youku.com
