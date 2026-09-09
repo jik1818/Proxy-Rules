@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,kt-prod.ess.apple.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,concernreports.apple.com
+DOMAIN-SUFFIX,weather-edge.apple.com
 
 # Cloudflare 代理 （PROXY）
 DOMAIN-SUFFIX,cloudflare.com
