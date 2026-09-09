@@ -61,6 +61,16 @@ DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,concernreports.apple.com
 DOMAIN-SUFFIX,weather-edge.apple.com
 
+# 全球主流 CA 机构 OCSP 明文代理（PROXY）
+DOMAIN-KEYWORD,ocsp.
+DOMAIN-KEYWORD,ocsp1.
+DOMAIN-KEYWORD,ocsp2.
+DOMAIN-KEYWORD,ocsp3.
+DOMAIN-KEYWORD,ocsp4.
+DOMAIN-KEYWORD,crl.
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,digitalcertvalidation.com
+
 # Cloudflare 代理 （PROXY）
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
