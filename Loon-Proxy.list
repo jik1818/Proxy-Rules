@@ -1,4 +1,4 @@
-# 天堂电影
+# 天堂电影（PROXY）
 DOMAIN-SUFFIX,dyttzy.tv
 DOMAIN-SUFFIX,dyttzyw.tv
 DOMAIN-SUFFIX,dyttimage.com
@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,jimxtc.com
 DOMAIN-SUFFIX,phimgood.com
 DOMAIN-KEYWORD,dytt-
 
-# Apple 代理 (Shadowrocket & Loon 共用)
+# Apple 代理（PROXY）
 URL-REGEX,^https?:\/\/sse-ws-.*\.apple\.com
 DOMAIN-KEYWORD,-fmf.icloud.com
 DOMAIN-KEYWORD,-fmipmobile.icloud.com
@@ -57,7 +57,7 @@ DOMAIN-SUFFIX,profile.gc.apple.com
 DOMAIN-SUFFIX,sas.pcms.apple.com
 DOMAIN-SUFFIX,kt-prod.ess.apple.com
 
-# Cloudflare 代理
+# Cloudflare 代理 （PROXY）
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflareclient.com
@@ -75,20 +75,20 @@ DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,cloudflareregistrar.com
 
-# Grok AI
+# Grok AI（PROXY）
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grokusercontent.com
 DOMAIN-SUFFIX,chronosphere.io
 DOMAIN-SUFFIX,eu.org
 
-# Box网盘代理
+# Box网盘代理（PROXY）
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,segment-box.com
 DOMAIN-SUFFIX,boxcloud.com
 
-# 自定义代理与工具
+# 自定义代理与工具（PROXY）
 DOMAIN-SUFFIX,nsloon.com
 DOMAIN-SUFFIX,nsloon.app
 DOMAIN-SUFFIX,kelee.one
