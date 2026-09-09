@@ -3,12 +3,6 @@ DOMAIN-KEYWORD,smoot.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,experiments.apple.com
 
-# Apple 证书 （PROXY）
-DOMAIN-SUFFIX,ocsp2.apple.com
-DOMAIN-SUFFIX,ocsp2.g.aaplimg.com
-DOMAIN-SUFFIX,ocsp.usertrust.com
-DOMAIN-SUFFIX,ocsp.digicert.com
-
 # 微软 遥测 诊断 （PROXY）
 DOMAIN-SUFFIX,c.bing.com
 DOMAIN,mobile.events.data.microsoft.com
