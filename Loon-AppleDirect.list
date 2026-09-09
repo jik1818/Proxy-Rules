@@ -6,7 +6,10 @@ DOMAIN-SUFFIX,invalid
 
 # Apple 节点/验证直连 (大陆 CDN 与定位) （DIRECT）
 DOMAIN-KEYWORD,cn-ssl
+DOMAIN-KEYWORD,cn1-ssl
 DOMAIN-KEYWORD,cn2-ssl
+DOMAIN-KEYWORD,cn3-ssl
+DOMAIN-KEYWORD,cn4-ssl
 DOMAIN-KEYWORD,loc-cn
 DOMAIN-KEYWORD,cn.apple.com
 DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
