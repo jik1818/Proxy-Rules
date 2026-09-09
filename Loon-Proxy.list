@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,init-kt.apple.com
 DOMAIN-SUFFIX,profile.gc.apple.com
 DOMAIN-SUFFIX,sas.pcms.apple.com
 DOMAIN-SUFFIX,kt-prod.ess.apple.com
+DOMAIN-SUFFIX,itunes.com
 
 # Cloudflare 代理 （PROXY）
 DOMAIN-SUFFIX,cloudflare.com
