@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,weather-edge.apple.com
 DOMAIN-SUFFIX,query.ess.apple.com
 
 # 全球主流 CA 机构 OCSP 明文代理（PROXY）
+DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,ocsp2.g.aaplimg.com
 DOMAIN-SUFFIX,usertrust.com
