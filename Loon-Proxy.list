@@ -1,10 +1,12 @@
 # 天堂电影（PROXY）
+DOMAIN-KEYWORD,dyttzy
 DOMAIN-SUFFIX,dyttzy.tv
 DOMAIN-SUFFIX,dyttzyw.tv
 DOMAIN-SUFFIX,dyttimage.com
 DOMAIN-SUFFIX,jimxtc.com
 DOMAIN-SUFFIX,phimgood.com
 DOMAIN-KEYWORD,dytt-
+
 
 # Apple 代理（PROXY）
 DOMAIN-KEYWORD,sse-ws-p
