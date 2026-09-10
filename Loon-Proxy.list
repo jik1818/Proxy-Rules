@@ -19,6 +19,8 @@ DOMAIN-KEYWORD,-escrowproxy.icloud.com
 DOMAIN-KEYWORD,-buy.itunes.apple.com
 DOMAIN-SUFFIX,init.push.apple.com
 DOMAIN-SUFFIX,courier-ab-vs.push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,g.aaplimg.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,api.smoot.apple.cn
@@ -63,7 +65,6 @@ DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,concernreports.apple.com
 DOMAIN-SUFFIX,weather-edge.apple.com
 DOMAIN-SUFFIX,query.ess.apple.com
-DOMAIN-SUFFIX,apac-asia-courier-vs.push-apple.com.akadns.net
 
 # 全球主流 CA 机构 OCSP 明文代理（PROXY）
 DOMAIN-KEYWORD,ocsp.
