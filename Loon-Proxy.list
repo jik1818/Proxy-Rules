@@ -17,10 +17,10 @@ DOMAIN-KEYWORD,-quota.icloud.com
 DOMAIN-KEYWORD,-acsegateway.icloud.com
 DOMAIN-KEYWORD,-escrowproxy.icloud.com
 DOMAIN-KEYWORD,-buy.itunes.apple.com
+DOMAIN-SUFFIX,get-bx.g.aaplimg.com
 DOMAIN-SUFFIX,init.push.apple.com
 DOMAIN-SUFFIX,courier-ab-vs.push.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
-DOMAIN-SUFFIX,g.aaplimg.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,api.smoot.apple.cn
