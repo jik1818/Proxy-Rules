@@ -11,3 +11,18 @@ DOMAIN,mobile.events.data.microsoft.com
 USER-AGENT,Google*Gmail*
 DOMAIN-SUFFIX,device-provisioning.googleapis.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
+
+#==== Apple APNs Courier Services ====
+DOMAIN-SUFFIX,4-courier2.push.apple.com
+DOMAIN-SUFFIX,6-courier2.push.apple.com
+DOMAIN-SUFFIX,9-courier2.push.apple.com
+DOMAIN-SUFFIX,10-courier2.push.apple.com
+DOMAIN-SUFFIX,14-courier2.push.apple.com
+DOMAIN-SUFFIX,19-courier2.push.apple.com
+DOMAIN-SUFFIX,27-courier2.push.apple.com
+DOMAIN-SUFFIX,29-courier2.push.apple.com
+DOMAIN-SUFFIX,31-courier2.push.apple.com
+DOMAIN-SUFFIX,32-courier2.push.apple.com
+DOMAIN-SUFFIX,40-courier2.push.apple.com
+DOMAIN-SUFFIX,44-courier2.push.apple.com
+DOMAIN-SUFFIX,50-courier2.push.apple.com
