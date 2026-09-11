@@ -107,6 +107,8 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grokusercontent.com
 DOMAIN-SUFFIX,chronosphere.io
 DOMAIN-SUFFIX,grok.me
+DOMAIN-SUFFIX,xai.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,eu.org
 
 # Box网盘代理（PROXY）
