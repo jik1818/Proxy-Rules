@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 #==== Apple APNs Courier Services ====
 DOMAIN-SUFFIX,4-courier2.push.apple.com
 DOMAIN-SUFFIX,6-courier2.push.apple.com
+DOMAIN-SUFFIX,7-courier2.push.apple.com
 DOMAIN-SUFFIX,9-courier2.push.apple.com
 DOMAIN-SUFFIX,10-courier2.push.apple.com
 DOMAIN-SUFFIX,14-courier2.push.apple.com
