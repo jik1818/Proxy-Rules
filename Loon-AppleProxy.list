@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,device-provisioning.googleapis.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 
 #==== Apple APNs Courier Services (1-50 PROXY) ====
+DOMAIN-SUFFIX,0-courier2.push.apple.com
 DOMAIN-SUFFIX,1-courier2.push.apple.com
 DOMAIN-SUFFIX,2-courier2.push.apple.com
 DOMAIN-SUFFIX,3-courier2.push.apple.com
@@ -43,23 +44,5 @@ DOMAIN-SUFFIX,27-courier2.push.apple.com
 DOMAIN-SUFFIX,28-courier2.push.apple.com
 DOMAIN-SUFFIX,29-courier2.push.apple.com
 DOMAIN-SUFFIX,30-courier2.push.apple.com
-DOMAIN-SUFFIX,31-courier2.push.apple.com
-DOMAIN-SUFFIX,32-courier2.push.apple.com
-DOMAIN-SUFFIX,33-courier2.push.apple.com
-DOMAIN-SUFFIX,34-courier2.push.apple.com
-DOMAIN-SUFFIX,35-courier2.push.apple.com
-DOMAIN-SUFFIX,36-courier2.push.apple.com
-DOMAIN-SUFFIX,37-courier2.push.apple.com
-DOMAIN-SUFFIX,38-courier2.push.apple.com
-DOMAIN-SUFFIX,39-courier2.push.apple.com
-DOMAIN-SUFFIX,40-courier2.push.apple.com
-DOMAIN-SUFFIX,41-courier2.push.apple.com
-DOMAIN-SUFFIX,42-courier2.push.apple.com
-DOMAIN-SUFFIX,43-courier2.push.apple.com
-DOMAIN-SUFFIX,44-courier2.push.apple.com
-DOMAIN-SUFFIX,45-courier2.push.apple.com
-DOMAIN-SUFFIX,46-courier2.push.apple.com
-DOMAIN-SUFFIX,47-courier2.push.apple.com
-DOMAIN-SUFFIX,48-courier2.push.apple.com
-DOMAIN-SUFFIX,49-courier2.push.apple.com
-DOMAIN-SUFFIX,50-courier2.push.apple.com
+
+
