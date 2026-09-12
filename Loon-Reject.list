@@ -6,27 +6,12 @@ DOMAIN-SUFFIX,digicert.cn
 # 泰隆银行 拦截（REJECT）
 DOMAIN-SUFFIX,jpush.cn
 
-# 光大银行 拦截（REJECT）
-DOMAIN-SUFFIX,analytics.95516.com
-
-# 阿里系 拦截（REJECT）
-DOMAIN-SUFFIX,cdn.ynuf.aliapp.org
-DOMAIN-SUFFIX,atoken.m.taobao.com
-DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,mdap.alipay.com
-DOMAIN-SUFFIX,sjarvis.taobao.com
-DOMAIN-SUFFIX,ossgw.alicdn.com
-DOMAIN-SUFFIX,tdum.alibaba.com
-DOMAIN-SUFFIX,arms-retcode.aliyuncs.com
-
 # Google 微软 广告与跟踪拦截（REJECT）
 DOMAIN-KEYWORD,doubleclick
 DOMAIN-KEYWORD,pixel-tracker-prod
-DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,app-analytics-services.com
-DOMAIN-SUFFIX,l.google.com
 
 # 已知恶意拦截（REJECT）
 # 提醒：wiki/life/live/site 已改用顶级域名比对语法，防误杀
