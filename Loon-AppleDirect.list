@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,gspe85-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gsi39-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gsi4-cn2-ssl.ls.apple.com
 
-#==== Apple APNs Courier Services (31-50 DIRECT / Reserve) ====
+#==== Apple APNs 通知服务 (31-50 DIRECT ) ====
 DOMAIN-SUFFIX,31-courier2.push.apple.com
 DOMAIN-SUFFIX,32-courier2.push.apple.com
 DOMAIN-SUFFIX,33-courier2.push.apple.com
