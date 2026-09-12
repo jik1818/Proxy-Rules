@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,s.mzstatic.com
 DOMAIN-SUFFIX,fpinit.itunes.apple.com
 DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,iphone-ld.apple.com
+DOMAIN-SUFFIX,weatherkit.apple.com
 
 #==== Apple APNs Courier Services (PROXY) ====
 DOMAIN-SUFFIX,0-courier2.push.apple.com
