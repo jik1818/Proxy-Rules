@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,init.itunes.apple.com
 DOMAIN-SUFFIX,configuration.ls.apple.com
 DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,radio-services.itunes.apple.com
+DOMAIN-SUFFIX,se2.itunes.apple.com
 
 # Apple 代理（PROXY）
 DOMAIN-SUFFIX,captive.g.aaplimg.com
