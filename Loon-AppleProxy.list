@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,pancake.apple.com
 DOMAIN-SUFFIX,inappcheck.itunes.apple.com
 DOMAIN-SUFFIX,mzstorekit.itunes.apple.com
+DOMAIN-SUFFIX,www.apple.com
+DOMAIN-SUFFIX,s.mzstatic.com
+DOMAIN-SUFFIX,fpinit.itunes.apple.com
 
 #==== Apple APNs Courier Services (PROXY) ====
 DOMAIN-SUFFIX,0-courier2.push.apple.com
