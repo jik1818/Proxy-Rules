@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,phimgood.com
 DOMAIN-KEYWORD,dytt-
 
 # Apple 代理（PROXY）
+DOMAIN-SUFFIX,captive.g.aaplimg.com
+DOMAIN-SUFFIX,time.apple.com
 DOMAIN-KEYWORD,sse-ws-p
 DOMAIN-KEYWORD,-smp-device.apple.com
 DOMAIN-KEYWORD,-fmf.icloud.com
