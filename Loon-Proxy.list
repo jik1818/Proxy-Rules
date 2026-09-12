@@ -7,6 +7,23 @@ DOMAIN-SUFFIX,jimxtc.com
 DOMAIN-SUFFIX,phimgood.com
 DOMAIN-KEYWORD,dytt-
 
+#==== Apple 大陆CDN
+DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,pancake.apple.com
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com
+DOMAIN-SUFFIX,mzstorekit.itunes.apple.com
+DOMAIN-SUFFIX,www.apple.com
+DOMAIN-SUFFIX,s.mzstatic.com
+DOMAIN-SUFFIX,fpinit.itunes.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,iphone-ld.apple.com
+DOMAIN-SUFFIX,weatherkit.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,init.itunes.apple.com
+DOMAIN-SUFFIX,configuration.ls.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+
 # Apple 代理（PROXY）
 DOMAIN-SUFFIX,captive.g.aaplimg.com
 DOMAIN-SUFFIX,time.apple.com
