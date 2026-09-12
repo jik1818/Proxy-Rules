@@ -1,7 +1,5 @@
 # Apple 直连 （DIRECT）
 DOMAIN-SUFFIX,captive.apple.com
-DOMAIN-SUFFIX,captive.g.aaplimg.com
-DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,invalid
 
 # Apple 节点/验证直连 (大陆 CDN 与定位) （DIRECT）
