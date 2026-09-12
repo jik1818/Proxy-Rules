@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 #==== Apple 大陆CDN
 DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
 DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,pancake.apple.com
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com
+DOMAIN-SUFFIX,mzstorekit.itunes.apple.com
 
 #==== Apple APNs Courier Services (PROXY) ====
 DOMAIN-SUFFIX,0-courier2.push.apple.com
