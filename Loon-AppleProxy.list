@@ -1,4 +1,4 @@
-# Apple 遥测 诊断 （PROXY）
+# Apple 核心服务 遥测 诊断 （PROXY）
 DOMAIN-KEYWORD,smoot.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,experiments.apple.com
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 
 #==== Apple 大陆CDN
 DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
+DOMAIN-SUFFIX,bag.itunes.apple.com
 
 #==== Apple APNs Courier Services (PROXY) ====
 DOMAIN-SUFFIX,0-courier2.push.apple.com
