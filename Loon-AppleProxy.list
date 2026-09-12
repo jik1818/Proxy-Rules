@@ -12,6 +12,9 @@ USER-AGENT,Google*Gmail*
 DOMAIN-SUFFIX,device-provisioning.googleapis.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 
+#==== Apple 大陆CDN
+DOMAIN-SUFFIX,amp-api-edge.apps.apple.com
+
 #==== Apple APNs Courier Services (PROXY) ====
 DOMAIN-SUFFIX,0-courier2.push.apple.com
 DOMAIN-SUFFIX,1-courier2.push.apple.com
