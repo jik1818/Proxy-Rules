@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,app-analytics-services.com
 
+# 阿里系拦截 （REJECT）
+DOMAIN-SUFFIX,atoken.m.taobao.com
+
 # 已知恶意拦截（REJECT）
 # 提醒：wiki/life/live/site 已改用顶级域名比对语法，防误杀
 DOMAIN-SUFFIX,wiki
