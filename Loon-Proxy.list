@@ -11,11 +11,8 @@ DOMAIN-KEYWORD,dytt-
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,itunes.com
 
 # 全球主流 CA 机构 OCSP 明文代理（PROXY）
