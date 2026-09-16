@@ -1,6 +1,7 @@
 # Apple 直连 （DIRECT）
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,invalid
+DOMAIN-SUFFIX,ocsp2.apple.com.w.cdngslb.com
 
 # Apple 节点/验证直连 (大陆 CDN 与定位) （DIRECT）
 DOMAIN-KEYWORD,cn-ssl
