@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,phncdn.com
 # 法国广播电台（PROXY）
 DOMAIN-SUFFIX,rfi.my
 DOMAIN-SUFFIX,rfi.fr
-DOMAIN-SUFFIX,aod-rfi.akamaized.net
+DOMAIN-SUFFIX,akamaized.net
 
 # Box网盘代理（PROXY）
 DOMAIN-SUFFIX,box.com
@@ -121,7 +121,6 @@ DOMAIN-SUFFIX,infomaniak.ch
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,voa-video-hls-ns.akamaized.net
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,bbc.com
@@ -132,7 +131,6 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,revma.com
 DOMAIN-SUFFIX,dw.com
-DOMAIN-SUFFIX,dwvod-rwrtr.akamaized.net
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,trib.al
 DOMAIN-SUFFIX,ai.studio
