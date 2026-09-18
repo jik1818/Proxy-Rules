@@ -65,6 +65,11 @@ DOMAIN-KEYWORD,pornhub
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
 
+# 法国广播电台（PROXY）
+DOMAIN-SUFFIX,rfi.my
+DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,aod-rfi.akamaized.net
+
 # Box网盘代理（PROXY）
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
