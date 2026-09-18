@@ -60,6 +60,9 @@ DOMAIN-SUFFIX,xai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,eu.org
 
+# Pornhub AV（PROXY）
+DOMAIN-SUFFIX,pornhub.com
+
 # Box网盘代理（PROXY）
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
