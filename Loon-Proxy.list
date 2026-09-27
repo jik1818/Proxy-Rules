@@ -59,6 +59,8 @@ DOMAIN-SUFFIX,grok.me
 DOMAIN-SUFFIX,xai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,metaaivm.com
 
 # Pornhub AV（PROXY）
 DOMAIN-KEYWORD,pornhub
