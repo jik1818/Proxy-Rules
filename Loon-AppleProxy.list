@@ -1,5 +1,5 @@
 # Apple 核心服务 遥测 诊断 （PROXY）
-DOMAIN-KEYWORD,smoot.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,experiments.apple.com
 DOMAIN-SUFFIX,partiality.itunes.apple.com
