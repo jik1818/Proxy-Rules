@@ -62,7 +62,10 @@ DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,museai.com
 DOMAIN-SUFFIX,runtimewire.com
+DOMAIN-SUFFIX,meta-ohttp-config-prod.fastly-edge.com
+DOMAIN-SUFFIX,meta-ohttp-relay-prod.fastly-edge.com
 
 # Pornhub AV（PROXY）
 DOMAIN-KEYWORD,pornhub
