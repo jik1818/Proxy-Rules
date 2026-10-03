@@ -32,6 +32,10 @@ DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,quovadisglobal.com
 DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,trust-provider.com
+DOMAIN-SUFFIX,pki.goog
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,ssl.com
 
 # Cloudflare 代理 （PROXY）
 DOMAIN-SUFFIX,cloudflare.com
