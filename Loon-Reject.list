@@ -1,6 +1,7 @@
 #====拦截规则 (Shadowrocket & Loon 共用)====（REJECT）
 
 # Apple调用阿里云证书 明文泄露 证书
+DOMAIN-KEYWORD,digicert.cn
 DOMAIN-SUFFIX,digicert.cn
 
 # 泰隆银行 拦截（REJECT）
