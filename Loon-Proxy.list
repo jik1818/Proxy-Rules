@@ -70,8 +70,6 @@ DOMAIN-SUFFIX,museai.com
 DOMAIN-SUFFIX,runtimewire.com
 DOMAIN-SUFFIX,meta-ohttp-config-prod.fastly-edge.com
 DOMAIN-SUFFIX,meta-ohttp-relay-prod.fastly-edge.com
-DOMAIN-SUFFIX,juiced.exchange
-DOMAIN-SUFFIX,qz.run
 
 # Pornhub AV（PROXY）
 DOMAIN-KEYWORD,pornhub
