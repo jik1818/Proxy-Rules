@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,api-adservices.apple.com
 # 微软 遥测 诊断 （PROXY）
 DOMAIN-SUFFIX,c.bing.com
 DOMAIN,mobile.events.data.microsoft.com
+DOMAIN,self.events.data.microsoft.com
 
 # Google 遥测 诊断 （PROXY）
 USER-AGENT,Google*Gmail*
