@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,cloudshell.dev
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.org
