@@ -1,3 +1,5 @@
+#====直连规则 (Clash & Shadowrocket & Loon 共用)====（DIRECT）
+
 # Apple 直连 （DIRECT）
 DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,invalid
