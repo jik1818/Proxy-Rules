@@ -1,3 +1,5 @@
+#====优先代理规则 (Clash & Shadowrocket & Loon 共用)====（PROXY）
+
 # Apple 核心服务 遥测 诊断 （PROXY）
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
