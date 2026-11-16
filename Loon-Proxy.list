@@ -1,3 +1,5 @@
+#====自定义代理规则 (Clash & Shadowrocket & Loon 共用)====（PROXY）
+
 # 天堂电影（PROXY）
 DOMAIN-KEYWORD,dyttzy
 DOMAIN-SUFFIX,dyttzy.tv
