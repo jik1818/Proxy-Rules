@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,app-analytics-services.com
 # 阿里系拦截 （REJECT）
 DOMAIN-SUFFIX,atoken.m.taobao.com
 
-# 喜马拉雅追踪域名拦截（REJECT）
+# 喜马拉雅电台 跟踪拦截（REJECT）
 DOMAIN-SUFFIX,qchannel03.cn
 
 # 已知恶意拦截（REJECT）
