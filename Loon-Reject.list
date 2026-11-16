@@ -17,6 +17,9 @@ DOMAIN-SUFFIX,app-analytics-services.com
 # 阿里系拦截 （REJECT）
 DOMAIN-SUFFIX,atoken.m.taobao.com
 
+# 喜马拉雅追踪域名拦截（REJECT）
+DOMAIN-SUFFIX,qchannel03.cn
+
 # 已知恶意拦截（REJECT）
 # 提醒：wiki/life/live/site 已改用顶级域名比对语法，防误杀
 DOMAIN-SUFFIX,wiki
