@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,v21c.com
 
 # 第三方跟踪拦截（REJECT）
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,bvmlt.top
 DOMAIN-SUFFIX,greylabeldelivery.com
 DOMAIN-SUFFIX,pa-cd.com
