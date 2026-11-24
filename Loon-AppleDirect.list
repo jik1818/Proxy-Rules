@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,cn2-ssl
 DOMAIN-KEYWORD,cn3-ssl
 DOMAIN-KEYWORD,cn4-ssl
 DOMAIN-KEYWORD,loc-cn
+DOMAIN-KEYWORD,-cn.ls
 DOMAIN-KEYWORD,cn.apple.com
 DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
