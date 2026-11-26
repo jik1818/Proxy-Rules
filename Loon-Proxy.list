@@ -102,11 +102,10 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,proton
+DOMAIN-KEYWORD,adguard
+DOMAIN-KEYWORD,manus
 DOMAIN-SUFFIX,cloudshell.dev
 DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,adguard.com
-DOMAIN-SUFFIX,adguard.org
-DOMAIN-SUFFIX,adguard-dns.io
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,emailimagecdnuyi.com
