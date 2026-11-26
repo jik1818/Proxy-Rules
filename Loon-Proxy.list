@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,proton
 DOMAIN-SUFFIX,cloudshell.dev
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,adguard.com
@@ -116,8 +117,6 @@ DOMAIN-SUFFIX,prismic.io
 DOMAIN-SUFFIX,cloudns.net
 DOMAIN-SUFFIX,fanboy.co.nz
 DOMAIN-SUFFIX,yoyo.org
-DOMAIN-SUFFIX,protonvpn.com
-DOMAIN-SUFFIX,protonweb.com
 DOMAIN-SUFFIX,chargebee.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,revenuecat.com
