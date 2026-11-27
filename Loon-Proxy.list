@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,segment-box.com
 DOMAIN-SUFFIX,boxcloud.com
 
 # 自定义代理与工具（PROXY）
+DOMAIN-SUFFIX,data.hismarttv.us.to
 DOMAIN-SUFFIX,nsloon.com
 DOMAIN-SUFFIX,nsloon.app
 DOMAIN-SUFFIX,kelee.one
